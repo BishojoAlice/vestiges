@@ -533,7 +533,7 @@ function openChapter(index) {
   const processedContent = chapter.content
                                   .replace(/\[(.*?)\]/g, '<span style="color: #e95f88; font-style: italic;">[$1]</span>')
                                   .replace(/\*\*(.+?)\*\*/g, '<span style="color: var(--accent); font-weight: bold;">$1</span>')
-                                  .replace(/\* \* \* \* \*/g, '<div class="scene-shift">* * * * *</div>')
+                                  .replace(/\* \* \* \* \*/g, '<div class="divider-transition"><span>✧</span><span>✦</span><span>✧</span></div>')
                                   .replace(/##(.*?)##/g, '<span style="color: #980000; font-style: italic;">[$1]</span>')
                                   .replace(/\\(.*?)\\/g, '<span style="color: #c3ac4b; font-style: italic;">[$1]</span>')
                                   .replace(/<<(.*?)>>/g, '<span style="color: #999999; font-style: italic;">[$1]</span>')
