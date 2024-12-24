@@ -503,7 +503,10 @@ Dark, black, flames run up to Królowa and cover her, however, she easily dispel
 
 Jeser was still shivering, despite her seemingly normal voice, something about her exuded an air of authority. “He has to leave”, “He can’t continue fighting, or else, he’s dead.” Those were the thoughts that ran through his head.<br><br>
 
-In a burst of light, the flames on the Voruteut girl vanished, and presumably, Jeser with it. Królowa vanished back into the woman’s shadow, which now had glowing golden eyes, always watching.
+* * * * * <br> <br>
+
+In a burst of light, the flames on the Voruteut girl vanished, and presumably, Jeser with it. Królowa vanished back into the woman’s shadow, which now had glowing golden eyes, always watching.<br> <br>
+
 The woman stopped the Voruteut girl from falling, as her form continued to bubble, as spacetime reached critical hazard, and the world collapsed, yet again, into a singularity. The destructive nature of the woman was, bit by bit, destroying every universe, and of course, this commentary. As the bubbling calmed down, space and time existed again, though several holes were in spacetime, this would’ve reflected in the body of the woman, but it did not, the “holes“ that existed in spacetime, despite having just formed, became a component of the woman, another mundane component.`
 }, {
   title: "A King Filled with Lies",
@@ -528,6 +531,13 @@ document.querySelectorAll('.chapter-link').forEach(link => {
 function openChapter(index) {
   const chapter = chapters[index];
   const processedContent = chapter.content.replace(/\[(.*?)\]/g, '<span style="color: #e95f88; font-style: italic;">[$1]</span>');
+    chapter.content.replace(/\*\*(.+?)\*\*/g, '<span style="color: var(--accent); font-weight: bold;">$1</span>')
+    chapter.replace(/\* \* \* \* \*/g, '<div class="scene-shift">* * * * *</div>')
+    chapter.replace(/##(.*?)##/g, '<span style="color: #980000; font-style: italic;">[$1]</span>')
+    chapter.replace(/\\(.*?)\\/g, '<span style="color: #c3ac4b; font-style: italic;">[$1]</span>')
+    chapter.replace(/<<(.*?)>>/g, '<span style="color: #999999; font-style: italic;">[$1]</span>')
+    chapter.replace(/\/\/(.*?)\/\//g, '<span style="color: var(--accent2); font-style: italic;">$1</span>');
+
   const chapterWindow = window.open('', '_blank');
   chapterWindow.document.write(`
                 <html>
