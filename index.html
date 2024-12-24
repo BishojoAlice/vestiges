@@ -531,13 +531,6 @@ document.querySelectorAll('.chapter-link').forEach(link => {
 function openChapter(index) {
   const chapter = chapters[index];
   const processedContent = chapter.content.replace(/\[(.*?)\]/g, '<span style="color: #e95f88; font-style: italic;">[$1]</span>');
-  const processedContent = chapter.content.replace(/\*\*(.+?)\*\*/g, '<span style="color: var(--accent); font-weight: bold;">$1</span>')
-  const processedContent = chapter.replace(/\* \* \* \* \*/g, '<div class="scene-shift">* * * * *</div>')
-  const processedContent = chapter.replace(/##(.*?)##/g, '<span style="color: #980000; font-style: italic;">[$1]</span>')
-  const processedContent = chapter.replace(/\\(.*?)\\/g, '<span style="color: #c3ac4b; font-style: italic;">[$1]</span>')
-  const processedContent = chapter.replace(/<<(.*?)>>/g, '<span style="color: #999999; font-style: italic;">[$1]</span>')
-  const processedContent = chapter.replace(/\/\/(.*?)\/\//g, '<span style="color: var(--accent2); font-style: italic;">$1</span>');
-
   const chapterWindow = window.open('', '_blank');
   chapterWindow.document.write(`
                 <html>
