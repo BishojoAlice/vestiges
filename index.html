@@ -37,6 +37,7 @@
 
     <script>
 function navToChapter(index){
+    window.scrollTo({ top: 0, behavior: 'smooth' });
     console.log("navigating");
     const chapter = chapters[index];
     const processedContent = chapter.content
