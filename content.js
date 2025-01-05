@@ -33,45 +33,41 @@ const home=`<h1>The Vestiges of Reality</h1>
 const chapters = [{
     title: "An endless spiral of dreams within dreams within endless dreams",
     content: `
-Amid a desolate salt pan, a shimmering golden cathedral stood. Inside it were several pillars, in the middle of them were pearls which glowed an eerie, faint, red, illuminating the otherwise dim cathedral. In the centre, a massive stained-glass illustration of a demon, with red eyes, alongside the demon’s other eyes, many hands, and a red robe. <br><br>
- 
+Amid a desolate salt pan, a shimmering golden cathedral stood. Inside it were several pillars, in the middle of them were pearls which glowed an eerie, faint, red, illuminating the otherwise dim cathedral. In the centre, a massive stained-glass illustration of a demon, with red eyes, alongside the demon’s other eyes, many hands, and a red robe.<br><br>
+
 Then, outside the cathedral, a massive red staff with gold accents, an endlessly changing blue orb sat in the middle of it. This staff fell onto the surrounding salt pan. The staff easily destroyed the small planet, while also destroying ten pillars near a door to nowhere.<br><br>
- 
+
 The world collapsed, and the universe fed into one singular point, a singularity of every single story in existence. From the most well-known, most loved, to the least well-known, forgotten stories made by cavemen in the halcyon days of yore.<br><br>
- 
+
 * * * * *
- 
-Across the sands of the Infinite Shore, the shore of universes outside the bounds of the story that will be told, slept a dragon.<br><br> 
- 
+Across the sands of the Infinite Shore, the shore of universes outside the bounds of the story that will be told this chapter, slept a dragon.<br><br>
+
 It surrounded the shore. It surrounded the Tree of Creation.<br><br>
- 
-The dragon was dreaming in the depths of nothingness, Voru.<br><br>
- 
-The dragon was dreaming in the heights of the absolute void, Shinkū.<br><br>
- 
+
+The dragon was dreaming in the depths of nothingness, Voru<br><br>
+
+The dragon was dreaming in the heights of the absolute void, Gwaktåd.<br><br>
+
 The dragon was dreaming in the depths of a backwater planet, Earth.<br><br>
- 
+
 The dragon was dreaming in the depths of time itself.<br><br>
- 
+
 The dragon was dreaming the past, the past within the future, the future, the future within the past, the past within the past, the future within the future. The dragon dreamed of stories, stories within stories, stories that didn't exist, couldn't exist, shouldn't exist, stories that weren't written, stories that had been forgotten, stories reconstructed.<br><br>
- 
-Questions such as “What is the dragon? or ”Why does an extra-universal entity resemble a dragon?” may be asked. In truth, the “dragon” is not entirely a dragon. The dragon is a complex web of nodes that just happens to resemble a dragon. Maybe it was intentional, though the idea that the dragon only resembles a dragon is due to the mind being incapable of comprehending it as anything else is more compelling. The dragon was like a tree, whose branches, eyes, wings, whatever you choose to call them, they’re creatures conquered by it, these branches swirled around the vastness of Shinkū as the dragon slept. The branches were always shifting, no form suited them, no creature could define them. Some were vaguely humanoid, most were not.<br><br>
- 
-Then, the staff which was destroying the planet destroyed the Tree of Creation, the tree of trees, everything that existed in existence, peaceful worlds with powerful beings, organisations containing the anomalous, stories of eldritch horrors all coming down to take over worlds, a dreamer who dreamt their own universes. These were all nodes of the Tree… the branches of the Tree. The dragon's branches were first to notice the destruction of the Tree… The staff ended the concept of “beginning” for the Tree, the staff warped time to shatter the Tree when it was being planted.<br><br>
- 
-Some beings glared at the staff destroying the newly planted tree, though without much interest, for them, it was a past already over, a past gone and forgotten, it was the future yet to happen, the future that already happened, but there was no “present.” For these beings, “now” didn't exist.<br><br>
- 
+
+Questions such as “What is the dragon? or ”Why does an extra-universal entity resemble a dragon?” may be asked. In truth, the “dragon” is not entirely a dragon. The dragon is a complex web of nodes that just happens to resemble a dragon. Maybe it was intentional, though the idea that the dragon only resembles a dragon is due to the mind being incapable of comprehending it as anything else is more compelling. The dragon was like a tree, whose branches, eyes, wings, whatever you choose to call them, they’re creatures conquered by it, these branches swirled around the vastness of Gwaktåd as the dragon slept. The branches were always shifting, no form suited them, no creature could define them. Some were vaguely humanoid, most were not.<br><br>
+
+Then, the staff which was destroying the planet destroyed the Tree of Creation, the tree of trees, everything that existed in existence, peaceful worlds with powerful beings, organisations containing the anomalous, stories of eldritch horrors all coming down to take over worlds, a dreamer who dreamt their own universes. You could call the tree “Babel,” if you so pleased, after all, the Tree contained every story that ever would be told, could be told, minor alterations that generated a new book within this massive Tree. Think of a story you’ve read, maybe… The Call of Cthulhu, or The War of the Worlds, these books, along with all other books that have ever existed, are simply just a “component” of the Tree of Creation. These stories within the Tree form as universes, multiverses, and narratives. These stories are all nodes of the Tree… which to perception, appears to just be the branches of the Tree, and its roots. The dragon's branches were first to notice the destruction of the Tree… The staff ended the concept of “beginning” for the Tree, the staff warped time to shatter the Tree when it was being planted.<br><br>
+
+Some beings glared at the staff destroying the newly planted tree, though without much interest, for them, it was a past already over, a past gone and forgotten, it was the future yet to happen, the future that already happened, but there was no “present.” For these beings, “now” didn't exist.
 The Infinite Shore, too, began to shrink, the grains of sand which made it up were falling in on themselves, turning into a singularity, becoming a singular stream of universes colliding into each other. The entities there resembled deities of all different religions, those forgotten, and others…<br><br>
- 
+
 Back in the present, the future, the past, the past within the past, future within the past, the distinction doesn't matter, it's just a time, it was when the dragon awoke, it dreamt itself wakening, dreamt itself dreaming its wakening, no matter how high up you went, the dragon was always wakening, until, as if no time had passed, since there is no notion of "time” in this spaceless location, the dragon woke up from the countless dreams it had dreamt.<br><br>
- 
-The dragon watched the staff destroy the Tree, it saw the beings which cared not for the Tree's destruction, and then, the dragon appeared everywhen, and, ejected the staff from the tree, and shattered it, and its pieces fell to the depths of Voru.<br><br>
- 
+
+The dragon watched the staff destroy the Tree, it saw the beings which cared not for the Tree's destruction, and then, the dragon appeared everywhen, and, ejected the staff from the tree, and shattered it, and its pieces fell to the depths of Voru.
 * * * * *
- 
 Back in the salt pan, a woman with a striking black robe with long sleeves, which hid her eyes, on the robe were ears resembling the ears of Anubis. Her robe had gold and purple accents, while she wore a dark purple and black dress beneath her robe, and chains dangling off it. Intangible, changing, shifting, the future became the present, the present became the past, and the past became the future, everything, at the woman, all of it intersected, much like the beings watching the destruction of the Tree of Creation being destroyed… nothing could be set in stone about her… her form appeared to be bubbling, the universe, the multiverse, space and time, were all mundane components of her being. For a second, it was like her bubbling form ruptured, but this “rupture” was yet another mundane component of her being. Even the dragon which fixed the Tree of Creation was yet another mundane component of her.<br><br>
 
-[Hyen sö jeranai…… uu-edōik Wukong pelod sānj uulengik enkhrek Ruyi…… Jerda uugeleda īll… Neka jeranei keio. Keder zeynes polej bhuheo…… Neka gödoram jeramœi the.]<br><br>
+[Hyen sö jeranai…… uu-edōik Wukong pelod sānj uulengik enkhrek Ruyi…… Jerda uugeleda īll… Neka jeranei keio. Keder zeynes polej bhuheo…… Neka gödoram jeramœi thed.]<br><br>
 
 I apologise, it appears some Ortothan has slipped through the cracks, humans, you readers can’t speak Ortothan. I’ll fix this error:<br><br>
 
@@ -89,9 +85,9 @@ Elsewhere within the salt pan, a strange creature, with tentacles for arms, stoo
 
 The creature spoke, every single word that he spoke oozed arrogance.<br><br>
 
-[How surprising…… The Psémas remain as arrogant as ever.]<br><br>
+[How surprising…… The Ŵīltăyăs remain as arrogant as ever.]<br><br>
 
-The woman spoke about the creature— the Pséma, whose tendrils unravelled, slashing at the lady, who dodged, as her robe vanished, for a second, the world bubbled into nothingness, for a second, everything happened at once, for a second… Her appearance could be mistaken as a bisque doll, her wavy silver hair glimmered in the salt pan that surrounded her. Her outfit was gray, and form-fitting, with black accents, it appeared to be the outfit of an assassin, or something similar. The colour of her eyes was a light blue, though the colour changed intensity, and on her face, she had a white opera mask on, its intricate designs contrasted the plain colours it had, while multiple feathers were on its right side. Placed around her entire outfit were pouches, seemingly with no pattern as to where they were placed. She didn't look tall, but was tall, she didn't look short, but was short, to her, height didn't matter.<br><br>
+The woman spoke about the creature— the Ŵīltăyă, whose tendrils unravelled, slashing at the lady, who dodged, as her robe vanished, for a second, the world bubbled into nothingness, for a second, everything happened at once, for a second… Without a robe, her appearance could be mistaken as a bisque doll, her wavy silver hair glimmered in the salt pan that surrounded her. Her outfit was gray, and form-fitting, with black accents, it appeared to be the outfit of an assassin, or something similar. The colour of her eyes was a light blue, though the colour changed intensity, and on her face, she had a white opera mask on, its intricate designs contrasted the plain colours it had, while multiple feathers were on its right side. Placed around her entire outfit were pouches, seemingly with no pattern as to where they were placed. She didn't look tall, but was tall, she didn't look short, but was short, to her, height didn't matter.<br><br>
 
 [Well~~ if you want a fight~~ I can give that to you~~ just be prepared to lose~~]<br><br>
 
@@ -107,17 +103,17 @@ The woman spoke about the creature— the Pséma, whose tendrils unravelled, sla
 
 [Well~~ I’m ready whenever you are~~ let’s settle this~~]<br><br>
 
-The woman took out a dagger from one of her pouches, and then, she flung it at the Pséma who tried to deflect it, but his tendrils were cut off.<br><br>
+The woman took out a dagger from one of her pouches, and then, she flung it at the Ŵīltăyă who tried to deflect it, but his tendrils were cut off.<br><br>
 
 [Annoying rodent. Well, in any case, you’re foolish, none of your attacks will ever kill me, I’m immune to everything you’re capable of.]<br><br>
 
 [Ah~~ you’re a stupid one~~ huh~~? Watch me kill you.]<br><br>
 
-The Pséma was hit with many daggers. The daggers fell from many piano wires, which were seemingly set up by the woman.<br><br>
+The Ŵīltăyă was hit with many daggers. The daggers fell from many piano wires, which were seemingly set up by the woman.<br><br>
 
 [Fucking clown! You and your little tricks.]<br><br>
 
-The Pséma tries to dodge the dagger, while many more daggers fly in from all directions. As the Pséma finally touched base with the ground, the woman threw down her dagger.<br><br>
+The Ŵīltăyă tries to dodge the dagger, while many more daggers fly in from all directions. As the Ŵīltăyă finally touched base with the ground, the woman threw down her dagger.<br><br>
 
 [What? Accepting your loss?]<br><br>
 
@@ -125,7 +121,7 @@ The Pséma tries to dodge the dagger, while many more daggers fly in from all di
 
 [Wha-]<br><br>
 
-In an instant, the Pséma is skewered by many spikes, and large black nails, that coalesced from the shadows of the Pséma and skewered him.<br><br>
+In an instant, the Ŵīltăyă is skewered by many spikes, and large black nails, that coalesced from the shadows of the Ŵīltăyă and skewered him.<br><br>
 
 * * * * *
 
@@ -139,7 +135,7 @@ In an instant, the Pséma is skewered by many spikes, and large black nails, tha
 
 <div class="author-notes">
     <h2>Author Notes</h2>
-    <p>Welcome to the first chapter of this series! I hope the insane power of the characters didn't scare you. This series only exists because… this series was once revealed to me in a dream. It's bizarre, it's meant to be, but also cool. There are many SCP references, and, don't worry, they'll be explained in the future. Also, if you're confused about what happened at the start, good. Also, you can skip the afterword, not much happens here, it's just a relaxing break; filled with gag characters. And, who knows, you might see the personalities of characters already introduced expanded upon in these afterword chapters.</p>
+    <p>Welcome to the first chapter of this series! I hope the insane power of the characters didn’t scare you. This series only exists because… this series was once revealed to me in a dream. It’s bizarre, it’s meant to be, but also cool. There are many SCP references, and, don’t worry, they’ll be explained in the future. Also, if you’re confused about what happened at the start, good. Also, you can skip the afterword, not much happens here, it’s just a relaxing break; filled with gag characters. And, who knows, you might see the personalities of characters already introduced expanded upon in these afterword chapters. Also, don’t mind all the weird words, they’re part of the canonical conlang, but you can pronounce them however the hell you want. The conlang is just for me.</p>
 </div>
 
 * * * * *
@@ -156,7 +152,7 @@ In an instant, the Pséma is skewered by many spikes, and large black nails, tha
 </div>`.replace(/\[(.*?)\]/g, '<span style="color: #e9688e; font-style: italic;">[$1]</span>')
 }, {
     title: "The Prince of Many Faces",
-    content: `After the Pséma was killed, the woman looked towards the horizon and spotted a figure, moving, and spying on her. Her robe reappeared, as ten golden daggers flew at the figure in the distance. However, the daggers were merely burned up in the flames covering the right side of the figure’s body; much like the Pséma before.<br><br>
+    content: `After the Ŵīltăyă was killed, the woman looked towards the horizon and spotted a figure, moving, and spying on her. Her robe reappeared, as ten golden daggers flew at the figure in the distance. However, the daggers were merely burned up in the flames covering the right side of the figure’s body; much like the Ŵīltăyă before.<br><br>
 
 [So you’re Jeser huh…… or…… to be more precise…… you’re Jeser under a false disguise.]<br><br>
 
@@ -168,7 +164,7 @@ Jeser, in their feminine disguise, spoke with two overlapping voices—one male 
 
 [Queen of Information, you say? How droll. You barely know about yourself and consider yourself the “Queen of Information”?]<br><br>
 
-[Knowing about…… myself is meaningless…… I have no reason to care. All I need is to know my enemies…… And…… it seems to me that Aiv-Zon’s personality…… is rubbing off on you……]<br><br>
+[Knowing about…… myself is meaningless…… I have no reason to care. All I need is to know my enemies…… And…… it seems to me that Aiv-Zōn’s personality…… is rubbing off on you……]<br><br>
 
 [Wasn’t the saying “If you know the enemy and know yourself, you need not fear the result of a hundred battles”?]<br><br>
 
@@ -198,7 +194,7 @@ Jeser, in their feminine disguise, spoke with two overlapping voices—one male 
 
 There was no arrogance in Jeser’s voice, only a sombre feeling. They truly desired to know his past, it felt like he had tried over and over, again and again, failing time and time again.<br><br>
 
-[That is…… not something I am obliged to tell you…… What I will say is that…… do not believe the words of Aiv-Zon as the pure truth…… maybe…… if you are able to change…… maybe…… just maybe…… I will tell you the truth.]<br><br>
+[That is…… not something I am obliged to tell you…… What I will say is that…… do not believe the words of Aiv-Zōn as the pure truth…… maybe…… if you are able to change…… maybe…… just maybe…… I will tell you the truth.]<br><br>
 
 [Fine, I’ll believe you. Once I beat you, I’ll extract all the information about my past from you.]<br><br>
 
@@ -450,13 +446,13 @@ Then was a person, with dark red armour, and what appeared to be 4 eyes across t
 
 Finally, was a woman in elegant, and divine white and gold garments, she had silver hair and red eyes. Her eyes saw the end of all stories, nothing escaped, not even the pre-established “Everything” that the man in the haori embodied. Plants, animals, stars, universes, multiverses, the stories in which multiverses resided, the natural course of things, existence, the absence of it, space, time, and yes, even death - she casually destroys them just by walking along. If she chooses to “end” a being, their story is over, and the metaphorical book to their story is closed. To her, everything, from the grass upon which one stands, to a star that gives off the light of life, all of that, is just as important as an atom in the middle of nowhere. <br><br>
 
-[Aika! Sup, you finally showed up today.]<br><br>
+[Àikà! Sup, you finally showed up today.]<br><br>
 
 Strength, the monkey spoke, he was Sun Wukong, the Monkey King.<br><br>
 
 [I couldn’t help it~~ I had other things to do~~]<br><br>
 
-The Phantasmal Queen of Space and Time, Aika, responded.<br><br>
+The Phantasmal Queen of Space and Time, Àikà, responded.<br><br>
 
 [Ah right, the Scarlet King spreading rumours about me? I take it that’s what you’ve been digging into lately?]<br><br>
 
@@ -470,9 +466,9 @@ Said order-- the pinked haired girl, Rakmou-leusan, in response to Nefel’s sta
 
 [Ahh… he’s really perpetuating such rumours, I didn’t believe he was capable of such things, he’s really thinking he’s able to do anything to us. I’ll crush him, over, and over again, he’ll be nothing but pulp. A beaten mess which is incapable of doing anything. Each of his hands will be turned into lumps of flesh, and whoever chooses to support him along with him. I don’t care friend or foe, if anyone dares stand in my way, I’ll do the same. And if he dares touch anyone else, like Ava-chan, I’ll reduce him to nothing, oh, but he’s already nothing, an ant, a miniscule being compared to use, I’ll be able to do some much-- If he can breathe beyond that, I’d commend him, but with the state he’d likely be in because of it, I could torture him much easier. First I’d take out each of his eyes, of course, being a powerful entity, he can regenerate them. It doesn’t really matter, since I can always do a Prometheus to him, it’s not going to be that hard. But chaining him to a rock and having a vulture eat out his eyes is boring, so, I’ll have to think of better ways. Which I already have, I’ll force him to live through the experiences of all the people he’s slaughtered, from Pangloss, to my dear children, the Humans. I’ll have him see hell, it doesn’t matter if he’s the devil, or whatever, I’ll do the same regardless. Oh, but there’s his subordinates, Moloch, I mean, there’s so much to talk about-- He’s such a fiend, that bull-headed demon. Forcing my children to sacrifice their own children? How despicable. How about I turn him into a child, and then sacrifice him, that’d be fun, surely. And his betrayal? Oh, he’d betray anyone, I may have cast him down to the Darkness Above, but even then, he’s foolish. He truly deserved it. He’s a simple-minded fool who only likes war and destruction. And then the Hanged King-- I’m not sure what I could do that he wouldn’t enjoy, his whole people are sadomasochistic freaks, so little I can do to make it worse. It’d just be best to remove him from this reality before he begins enjoying the torture. Oh, but I can still raze his country of Alagadda to the ground. Other than A’habbat, I’ll have to kill all of his brides, they’re bound to get in the way, though I don’t know if I should tear their limbs off one by one, or gouge out their eyes. Ahh… but then there’s the issue of the Treaty of Thorns and Flesh… Yaldabaoth would likely step in and try to stop me, ahh… but Sofia can deal with her…]<br><br>
 
-The 20-winged creation, Paradwys spoke next, what she spoke, despite being words, and that could be understood, was near-incomprehensible. Every world she spoke, her eyes turned more and more red, as the red halo-like object on her hair slowly gleamed with arcane red runes.<br><br>
+The 20-winged creation, Kréûrgwīn spoke next, what she spoke, despite being words, and that could be understood, was near-incomprehensible. Every world she spoke, her eyes turned more and more red, as the red halo-like object on her hair slowly gleamed with arcane red runes.<br><br>
 
-[Paradwys… first off~~ don’t speak so incomprehensibly, second, we can’t kill the Scarlet King yet~~ he’s using the power of… Sanna to hide himself.]<br><br>
+[Kréûrgwīn… first off~~ don’t speak so incomprehensibly, second, we can’t kill the Scarlet King yet~~ he’s using the power of… Sanna to hide himself.]<br><br>
 
 [Ava-chan, I fully understand everything you’re getting at, but I don’t care. That fiend must be killed, I don’t care about the veil of Sanna. It’s useless to me, it’s meant to keep some other people out, but I'll break through, eventually. My hatred for him knows no bounds. I’ll shatter that veil of his with my own hands, it’s not something I can’t do. That antithetical storytelling device can do nothing against me. If anything, It’ll strengthen my resolve to torture him, after all, if he can’t die due to it, I’ll be able to torture him as much as I want. Now that you’ve reminded me, oh-- there’s so much I could do, I could torture him for eternity, and he’ll have to bear with it, his worthless veil will be used against him, I’ll have so much fun-- It’s almost insane how much fun I could have--]<br><br>
 
@@ -482,13 +478,13 @@ What's this? A normal event happening… out of bounds of story, fixing error.<b
 
 [Wai-wai-wait, Ava-chan, you can’t do that!! This is heresy!]<br><br>
 
-[… Do you even know what heresy means, Paradwys~~?]<br><br>
+[… Do you even know what heresy means, Kréûrgwīn~~?]<br><br>
 
 [No, I do not, and I don’t personally care, what I call heresy, is heresy.]<br><br>
 
 [… Are you two seriously arguing about heresy and stuff during an official Koru-teusa meeting———– In other words… you’re talking about personal matters, while we have other matters to deal with, it isn’t acceptable right now.]<br><br>
 
-In a simple intonation and inflectionless voice, the unavoidable End, Shiro, the woman with divine white and gold garments, ended the personal conversation between Paradwys and Aika.<br><br>
+In a simple intonation and inflectionless voice, the unavoidable End, Šiřo, the woman with divine white and gold garments, ended the personal conversation between Kréûrgwīn and Àikà.<br><br>
 
 **Indeed, to continue, we have the rumours about Nefel spread through the word of the Insect, Harak, son of the Third Brood, and grooming Jeser to be his perfect warrior… How troublesome…**<br><br>
 
@@ -508,9 +504,9 @@ The armoured Death, All-Death; Ksitigarbha, continued with the prior conversatio
 
 With that, All-Death left through a small portal, which appeared out of nowhere.<br><br>
 
-[This was a short meeting, but good luck, Aika-chan, Wukong!]<br><br>
+[This was a short meeting, but good luck, Àikà-chan, Wukong!]<br><br>
 
-Paradwys would be next to leave, vanishing in a flash of light.<br><br>
+Kréûrgwīn would be next to leave, vanishing in a flash of light.<br><br>
 
 [Best of luck to you both! See you, さらばだ]<br><br>
 
@@ -520,13 +516,13 @@ Paradwys would be next to leave, vanishing in a flash of light.<br><br>
 
 Both Nefel and Rakmou-leusan got together, with Nefel covering the both of them with his haori, as they vanished afterwards.<br><br>
 
-[I should warn you, Kuro is not the way she seems right now———– In other words… Kuro may be planning something, not even I can comprehend what it is.]<br><br>
+[I should warn you, Küřo is not the way she seems right now———– In other words… Küřo may be planning something, not even I can comprehend what it is.]<br><br>
 
-With those cautionary words, Shiro too left.<br><br>
+With those cautionary words, Šiřo too left.<br><br>
 
 [That’s everyone gone I guess~~]<br><br>
 
-[Yeah, also, do you know why I had to sub in for Kuro?]<br><br>
+[Yeah, also, do you know why I had to sub in for Küřo?]<br><br>
 
 [She said she had some important business to finish~~ So, she couldn’t attend the meeting today~~ I’ll bet she’s going to be here next time or something. There’s a lot of chaos~~ and she’s been handling all of that pretty frequently~~]<br><br>
 
@@ -539,13 +535,13 @@ With those cautionary words, Shiro too left.<br><br>
 <div class="afterword-section">
     <h2>Afterword</h2>
     <p>Sugar-senpai: Did… did he just seriously roll the afterword? What idiocy.</p>
-    <p>Kuro: Hey, hey!! I’m here!!</p>
+    <p>Küřo: Hey, hey!! I’m here!!</p>
     <p>Sugar-senpai: When did a major main story character just spawn in???</p>
-    <p>Kuro: I’m technically the concept of the beginning, so I shouldn’t be here, but, eh, it’s more fun this way.</p>
+    <p>Küřo: I’m technically the concept of the beginning, so I shouldn’t be here, but, eh, it’s more fun this way.</p>
     <p>Sugar-senpai: Answer my question!!</p>
-    <p>Kuro: Ah, I’m just not taking part in the main story right now, so, I can be here, actually, most characters can be here, it shouldn’t be too hard for them.</p>
+    <p>Küřo: Ah, I’m just not taking part in the main story right now, so, I can be here, actually, most characters can be here, it shouldn’t be too hard for them.</p>
     <p>Sugar-senpai: Is the fourth wall just a suggestion for you lot!?</p>
-    <p>Author: They looked up at the real world to tell the time, well, Kuro and Shiro did… yes, it is a suggestion.</p>
+    <p>Author: They looked up at the real world to tell the time, well, Küřo and Šiřo did… yes, it is a suggestion.</p>
     <p>Sugar-senpai: Seriously!</p>
     <p>Author: Also, aren’t you going to talk about the slight amounts of sugar in the story?</p>
     <p>Sugar-senpai: Eh… what?</p>
@@ -573,7 +569,7 @@ With those cautionary words, Shiro too left.<br><br>
 </div>`
 }, {
     title: "The Palace",
-    content: `After the Koru-teusa left, both Wukong and Aika talked for a long time, Wukong was sitting on his Somersault cloud, while Aika stood next to it.<br><br>
+    content: `After the Koru-teusa left, both Wukong and Àikà talked for a long time, Wukong was sitting on his Somersault cloud, while Àikà stood next to it.<br><br>
 
 [Where are Lùth and Ýli anyway?]<br><br>
 
@@ -593,7 +589,7 @@ With those cautionary words, Shiro too left.<br><br>
 
 [huh?]<br><br>
 
-In an instant, both Wukong and Aika appeared before a Welsh-looking palace, it was seemingly made of stone and had many beautiful windows.<br><br>
+In an instant, both Wukong and Àikà appeared before a Welsh-looking palace, it was seemingly made of stone and had many beautiful windows.<br><br>
 
 […you could DO THAT!?]<br><br>
 
@@ -603,13 +599,13 @@ In an instant, both Wukong and Aika appeared before a Welsh-looking palace, it w
 
 [Mhm.]<br><br>
 
-Two people, a man, and a woman seemed to notice Wukong and Aika’s arrival, one had a black, tattered cloak, with gold accents. His face was covered in shadow, and the only visible part of his face was his piercing red eyes. The woman had black hair, and a beautiful black dress to go along with it. She had two flowers on either side of her gleaming black hair, as she too had piercing red eyes.<br><br>
+Two people, a man, and a woman seemed to notice Wukong and Àikà’s arrival, one had a black, tattered cloak, with gold accents. His face was covered in shadow, and the only visible part of his face was his piercing red eyes. The woman had black hair, and a beautiful black dress to go along with it. She had two flowers on either side of her gleaming black hair, as she too had piercing red eyes.<br><br>
 
 The man resembled all matter that had ever existed, strings that vibrated. His body exuded some strange "energy" something beyond comprehension, some knowledge further… a serpent, maybe? Guarding the Tree of everlasting Knowledge, with knowledge spanning across every single universe, on every single thing. It had information on everything, nothing, less than nothing, more than everything, it had information that existed outside the bounds of creation—all of that, contained within the massive libraries that made up the Tree of Knowledge.
 
 The woman… she was "something," maybe even "nothing." What was certain about her was that she definitely wasn't a story, but, she also "had" a story. A story about [Data Lost], [Data Lost], and, most importantly, [Data Lost].
 
-As Wukong and Aika entered the castle, a young butler, who was at the palace's front doors, greeted them, before bringing them to a table in what seemed to be a grand living room. Seated on this table were the two people from before.<br><br>
+As Wukong and Àikà entered the castle, a young butler, who was at the palace's front doors, greeted them, before bringing them to a table in what seemed to be a grand living room. Seated on this table were the two people from before.<br><br>
 
 [Ai-san, Sun-kun, welcome!]<br><br>
 
@@ -619,7 +615,7 @@ The first to speak at this table was the woman, coming down from the stairs, fol
 
 [Wukong~~ simmer down.]<br><br>
 
-[Aika, don’t you dare stop me from teaching this bitch a lesson.]<br><br>
+[Àikà, don’t you dare stop me from teaching this bitch a lesson.]<br><br>
 
 [Sun-kun, don’t you think you’re too weak to teach me a lesson?]<br><br>
 
@@ -645,7 +641,7 @@ The woman cheekily smiled as she said those words, before vanishing into energy 
 
 [Hey!]<br><br>
 
-[So… should we just let the two of 'em fight, Aika?]<br><br>
+[So… should we just let the two of 'em fight, Àikà?]<br><br>
 
 [At this point~~ I couldn’t tell you, Ýli.]<br><br>
 
@@ -659,13 +655,13 @@ In a fell swoop, both Wukong and the woman were on the ground, holding their han
 
 [Ai-san… how rude…]<br><br>
 
-[If I see any of you two idiots fighting one more time, I’ll ask Kuro to use her punch (strong) on you two.]<br><br>
+[If I see any of you two idiots fighting one more time, I’ll ask Küřo to use her punch (strong) on you two.]<br><br>
 
 [[We sincerely apologise]]<br><br>
 
-[P-please don’t tell Kuro-sama about this.]<br><br>
+[P-please don’t tell Küřo-sama about this.]<br><br>
 
-[Y-yeah, what Lùth said, don’t tell Kuro-sama… please.]<br><br>
+[Y-yeah, what Lùth said, don’t tell Küřo-sama… please.]<br><br>
 
 [Good, now behave.]<br><br>
 
@@ -677,7 +673,7 @@ In a fell swoop, both Wukong and the woman were on the ground, holding their han
 
 [Hyiih…]<br><br>
 
-Wukong recoiled in shock at Aika’s words, before quickly shutting himself up.<br><br>
+Wukong recoiled in shock at Àikà’s words, before quickly shutting himself up.<br><br>
 
 [Jeez… do I really need to babysit you two?]<br><br>
 
@@ -693,7 +689,7 @@ Wukong would be first to respond to her question, with Lùth quickly following s
 
 [Fine, but if I see you two messing around one more time, I will have to babysit you two.]<br><br>
 
-Aika sighed and went back to where Ýli was waiting, he was watching the entire thing from the couch, his body still covered in a tattered cloak.<br><br>
+Àikà sighed and went back to where Ýli was waiting, he was watching the entire thing from the couch, his body still covered in a tattered cloak.<br><br>
 
 [So, I guess we’re done with ‘em for now.]<br><br>
 
@@ -701,7 +697,7 @@ Aika sighed and went back to where Ýli was waiting, he was watching the entire 
 
 [Ýli-sama, one of Phantasmal Queen-sama’s subordinates is here. She calls herself Ellie.]<br><br>
 
-An old butler, though still very fit in appearance, spoke, bowing gracefully before Aika and Ýli.<br><br>
+An old butler, though still very fit in appearance, spoke, bowing gracefully before Àikà and Ýli.<br><br>
 
 [Ellie? Why is she here.]<br><br>
 
@@ -722,15 +718,15 @@ She spoke in a very formal manner, and in a very beautiful way too, she was cove
 <div class="afterword-section">
     <h2> Afterword </h2>
         <p>Sugar-senpai: Finally! Finally! I’m free from the seriousness.</p>
-        <p>Kuro: Look at the last line.</p>
+        <p>Küřo: Look at the last line.</p>
         <p>Sugar-senpai: Hwoeh! W-what… why are you here again!? And what’s with this cliffhanger!?</p>
-        <p>Kuro: Well, apparently, the author had something to do, so I’m here for them.</p>
+        <p>Küřo: Well, apparently, the author had something to do, so I’m here for them.</p>
         <p>Sugar-senpai: Jeez, well, that’s fine. Anyway, do you have anything to say about what happened to Rakmou-leusan?</p>
-        <p>Kuro: W-what could you mean??</p>
-        <p>Sugar-senpai: I’m pretty smart you know, I mean, hierarchically, you’re the second strongest, one of the few that can harm Rakmou-leusan, Nefel harming his wife is something he probably wouldn’t do, given he has the elegance of a Phantom Thief. So that leaves you and Shiro. Shiro’s been introduced, and you’re still a mystery. I’d say you’re more likely.</p>
-        <p>Kuro: How did you get all that???</p>
+        <p>Küřo: W-what could you mean??</p>
+        <p>Sugar-senpai: I’m pretty smart you know, I mean, hierarchically, you’re the second strongest, one of the few that can harm Rakmou-leusan, Nefel harming his wife is something he probably wouldn’t do, given he has the elegance of a Phantom Thief. So that leaves you and Šiřo. Šiřo’s been introduced, and you’re still a mystery. I’d say you’re more likely.</p>
+        <p>Küřo: How did you get all that???</p>
         <p>Sugar-senpai: The author had notes on his table…</p>
-        <p>Kuro: Like I thought, you’re not smart enough to do anything like that.</p>
+        <p>Küřo: Like I thought, you’re not smart enough to do anything like that.</p>
 `
 }, {
     title: "Al'ealam ①",
@@ -754,7 +750,7 @@ She spoke in a very formal manner, and in a very beautiful way too, she was cove
 
 [Alright…]<br><br>
 
-Aika created a small portal to a beautiful, luscious cherry blossom grove. The sun glimmered through the leaves, and the leaves, and plants let off a faint pink glow. A stone path up towards a Japanese-styled house, as the 4 went up the hill, crossing a small Torii gate, and entering the house not too far away.<br><br>
+Àikà created a small portal to a beautiful, luscious cherry blossom grove. The sun glimmered through the leaves, and the leaves, and plants let off a faint pink glow. A stone path up towards a Japanese-styled house, as the 4 went up the hill, crossing a small Torii gate, and entering the house not too far away.<br><br>
 
 [Woehh… this place is as beautiful as always.]<br><br>
 
@@ -774,11 +770,11 @@ The petals fell on Lùth’s hair, contrasting with her dark black outfit and ha
 
 [Should this conversation really be that light-hearted~~?]<br><br>
 
-[Aika, I’m not much older than you, but, I feel like I’ve lived centillions of years more than you have… at this point, having light-hearted conversations is better than worrying over each and every detail.]<br><br>
+[Àikà, I’m not much older than you, but, I feel like I’ve lived centillions of years more than you have… at this point, having light-hearted conversations is better than worrying over each and every detail.]<br><br>
 
 [I guess that’s true~~ I’ll have some wine then.]<br><br>
 
-[Alright, tea for Lùth and Wukong, coffee for Ýli, and wine for Aika, ah, and what type of wine?]<br><br>
+[Alright, tea for Lùth and Wukong, coffee for Ýli, and wine for Àikà, ah, and what type of wine?]<br><br>
 
 [Red.]<br><br>
 
@@ -808,7 +804,7 @@ Nefel returned with a bottle of fine wine, and poured it in a wine glass, before
 
 [Yeah, it’s right around the corner.]<br><br>
 
-Aika opened a sliding door, and entered a room with pink accents, with Rakmou-leusan lying down on a futon in the middle. She was unconscious. In her chest was a gaping hole, at least 30 cm in radius. It seemed that Rakmou-leusan was crying; possibly having a dream. In faint words, she spoke.<br><br>
+Àikà opened a sliding door, and entered a room with pink accents, with Rakmou-leusan lying down on a futon in the middle. She was unconscious. In her chest was a gaping hole, at least 30 cm in radius. It seemed that Rakmou-leusan was crying; possibly having a dream. In faint words, she spoke.<br><br>
 
 [I’m sorry… Zeru… but… I can’t join you guys over there… I don’t want to… Eoghan too… I don’t want to… I don’t want to… I’m scared…]<br><br>
 
@@ -816,13 +812,13 @@ Aika opened a sliding door, and entered a room with pink accents, with Rakmou-le
 
 [Nessa… I'm sorry I forgot you… I just should've been stronger… I should've been… Yorick… forgive me for… for… not helping you in time… Myron… Ursula too… I hope… you and… Eoghan have made up… but… why is everyone praising me… please stop… your praises hurt… I… I’m nothing but a liar… I don’t deserve to be next to you…]<br><br>
 
-Aika just watched calmly, her emotions were indescribable, yet, it seemed as if she was almost about to cry. She hugged the unconscious Rakmou-leusan as if comforting her.<br><br>
+Àikà just watched calmly, her emotions were indescribable, yet, it seemed as if she was almost about to cry. She hugged the unconscious Rakmou-leusan as if comforting her.<br><br>
 
 [W-why… I don’t deserve something like this… all of you, you shouldn’t put so much trust in me!! I-I don’t want to betray your expectations again… please…]<br><br>
 
-As Aika hugged Rakmou-leusan tightly, she was being healed. Aika’s emotions were now sadder, and she seemingly held back tears. She patted Rakmou-leusan’s head, as she was continually crying in her dreams, before falling silent, a smile on her face.<br><br>
+As Àikà hugged Rakmou-leusan tightly, she was being healed. Àikà’s emotions were now sadder, and she seemingly held back tears. She patted Rakmou-leusan’s head, as she was continually crying in her dreams, before falling silent, a smile on her face.<br><br>
 
-Aika then held Rakmou-leusan’s head in her lap as she seemed to sing a soft lullaby, lulling Rakmou-leusan to sleep. The light shone through the otherwise dim room. Soon, Rakmou-leusan would wake up from her sleep.<br><br>
+Àikà then held Rakmou-leusan’s head in her lap as she seemed to sing a soft lullaby, lulling Rakmou-leusan to sleep. The light shone through the otherwise dim room. Soon, Rakmou-leusan would wake up from her sleep.<br><br>
 
 [Eh~~ Ai-tan… what are you doing here? And, more importantly… why am I on your lap.]<br><br>
 
@@ -848,7 +844,7 @@ Aika then held Rakmou-leusan’s head in her lap as she seemed to sing a soft lu
 
 [Yeah… probably…]<br><br>
 
-As Rakmou-leusan left the room, Aika stayed behind, instead of a smile that was on her face, she was crying now. She didn’t try to hold back her tears. She just sat there… alone.<br><br>`
+As Rakmou-leusan left the room, Àikà stayed behind, instead of a smile that was on her face, she was crying now. She didn’t try to hold back her tears. She just sat there… alone.<br><br>`
 }, {
     title: "Intermission: ~~Rakmou-leusan: Past ①~~",
     content: `Countless years had passed since Rakmou-leusan first began protecting the current Hytoth from the destruction that the chaotic Voruteuts caused. Her friends and family had long since died, but she always wrote notes; to them. Since the very beginning.<br><br>
@@ -875,7 +871,7 @@ As Rakmou-leusan left the room, Aika stayed behind, instead of a smile that was 
 
 * * * * *
 
-During the many battles that the Koru-teusa faced during their time, it was the first true invasion of the Voruteuts, spearheaded by the mastermind behind it all, Aiv-Zon. During this time, the entirety of the Koru-teusa were overwhelmed, so, in a bid to protect the Hytoth, Zeyu-leusan, known by the Koru-teusa as Zeru, chose to sacrifice himself for the sake of the Hytoth. Gathering up all his energy, and all of his life essence, he put it all in a single holy lance, destroying all of the Voruteuts, but dying in the process.<br><br>
+During the many battles that the Koru-teusa faced during their time, it was the first true invasion of the Voruteuts, spearheaded by the mastermind behind it all, Aiv-Zōn. During this time, the entirety of the Koru-teusa were overwhelmed, so, in a bid to protect the Hytoth, Zeyu-leusan, known by the Koru-teusa as Zeru, chose to sacrifice himself for the sake of the Hytoth. Gathering up all his energy, and all of his life essence, he put it all in a single holy lance, destroying all of the Voruteuts, but dying in the process.<br><br>
 
 * * * * *
 
