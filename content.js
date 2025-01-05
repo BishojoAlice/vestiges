@@ -232,23 +232,21 @@ Jeser thought for a moment, they needed to know their past, so they had to gain 
 
 (Good. I expect your arrival soon.)<br><br>
 
-[Krulåva …… Go easy on him. I don’t need a child like him dead.]<br><br>
-
-(A/N: Krulåva  is Polish for “Queen.”)<br><br>
+[Krulåva…… Go easy on him. I don’t need a child like him dead.]<br><br>
 
 [Processing Request… Understood.]<br><br>
 
-Jeser stood before the archangel, Krulåva , more determined than before. Their body rapidly healed from the prior grievous injuries.<br><br>
+Jeser stood before the archangel, Krulåva, more determined than before. Their body rapidly healed from the prior grievous injuries.<br><br>
 
 [I may not beat you at full power, but you sure as hell ain’t killing me, my Regeneration Snake can bring me back from reality erasure itself! And it’s locked behind an infinite barrier, something you can never cross, no matter how strong you are.]<br><br>
 
 [Foolish, Watch.]<br><br>
 
-Jeser felt a shiver run down their spine as Krulåva  spoke those words in a cruel, indifferent, inflectionless, intonationless, voice spoke to them. In a flash of light, the snake that was protected by an infinite barrier, and the surrounding salt pan was completely and utterly melted by a single beam. The idea of infinity soon became finite, and the idea of finity soon became infinite. The beam of light had been stopped, and been pushed back again and again, but it kept going, shattering past the barrier, making its “infinity” equate to nothing in comparison to what the beam of light was. <br><br>
+Jeser felt a shiver run down their spine as Krulåva spoke those words in a cruel, indifferent, inflectionless, intonationless, voice spoke to them. In a flash of light, the snake that was protected by an infinite barrier, and the surrounding salt pan was completely and utterly melted by a single beam. The idea of infinity soon became finite, and the idea of finity soon became infinite. The beam of light had been stopped, and been pushed back again and again, but it kept going, shattering past the barrier, making its “infinity” equate to nothing in comparison to what the beam of light was. <br><br>
 
 [Hahaha… this is some insane power, but, this is also information… valuable information at that. I’ll see what more information I can gain here…]<br><br>
 
-Dark, black, flames run up to Krulåva  and cover her, however, she easily dispels the fire, before pelting Jeser with more beams of light, which they barely dodge.<br><br>
+Dark, black, flames run up to Krulåva and cover her, however, she easily dispels the fire, before pelting Jeser with more beams of light, which they barely dodge.<br><br>
 
 [I’m not sure how much longer I can hold out here… So… I’ll call it quits, I’ll hand over the Voruteut body as well.]</span><br><br>
 
@@ -256,7 +254,7 @@ Dark, black, flames run up to Krulåva  and cover her, however, she easily dispe
 
 Jeser was still shivering, despite her seemingly normal voice, something about her exuded an air of authority. “He has to leave”, “He can’t continue fighting, or else, he’s dead.” Those were the thoughts that ran through his head.<br><br>
 
-In a burst of light, the flames on the Voruteut girl vanished, and presumably, Jeser with it. Krulåva  vanished back into the woman’s shadow, which now had glowing golden eyes, always watching.<br> <br>
+In a burst of light, the flames on the Voruteut girl vanished, and presumably, Jeser with it. Krulåva vanished back into the woman’s shadow, which now had glowing golden eyes, always watching.<br> <br>
 
 The woman stopped the Voruteut girl from falling, as her form continued to bubble, as spacetime reached critical hazard, and the world collapsed, yet again, into a singularity. The destructive nature of the woman was, bit by bit, destroying every universe, and of course, this commentary. As the bubbling calmed down, space and time existed again, though several holes were in spacetime, this would’ve reflected in the body of the woman, but it did not, the “holes“ that existed in spacetime, despite having just formed, became a component of the woman, another mundane component.
 <div class="afterword-section">
@@ -528,7 +526,7 @@ With those cautionary words, Šiřo too left.<br><br>
 
 [And, what about Voru?]<br><br>
 
-[Ah~~ they’re dealing with all the Voruteuts~~ rumour has it that the Scarlet King took many young men and women. I know he took at least one~~ that being~~ the one who was Jeser’s host body. She’s being taken care of by Krulåva  right now. We’ll have to deal with that as well~~ I bet~~]<br><br>
+[Ah~~ they’re dealing with all the Voruteuts~~ rumour has it that the Scarlet King took many young men and women. I know he took at least one~~ that being~~ the one who was Jeser’s host body. She’s being taken care of by Krulåva right now. We’ll have to deal with that as well~~ I bet~~]<br><br>
 
 [That’s done, roll the afterword.]
 
