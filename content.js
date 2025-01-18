@@ -33,7 +33,7 @@ const home=`<h1>The Vestiges of Reality</h1>
 const chapters = [{
     title: "An endless spiral of dreams within dreams within endless dreams",
     content: `
-Amid a desolate salt pan, a shimmering golden cathedral stood. Inside it were several pillars, in the middle of them were pearls which glowed an eerie, faint, red, illuminating the otherwise dim cathedral. In the centre, a massive stained-glass illustration of a demon, with red eyes, alongside the demon’s other eyes, many hands, and a red robe.<br><br>
+Amid a desolate salt pan, a shimmering golden cathedral stood. Inside it were several pillars, in the middle of them were pearls which glowed an eerie, faint, red, illuminating the otherwise dim cathedral. In the centre, a massive stained-glass illustration of a demon, with red eyes, alongside the demon’s other eyes, many hands, and a red robe.
 
 Then, outside the cathedral, a massive red staff with gold accents, an endlessly changing blue orb sat in the middle of it. This staff fell onto the surrounding salt pan. The staff easily destroyed the small planet, while also destroying ten pillars near a door to nowhere.<br><br>
 
