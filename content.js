@@ -33,92 +33,95 @@ const home=`<h1>The Vestiges of Reality</h1>
 const chapters = [{
     title: "An endless spiral of dreams within dreams within endless dreams",
     content: `
-Amid a desolate salt pan, a shimmering golden cathedral stood. Inside it were several pillars, in the middle of them were pearls which glowed an eerie, faint, red, illuminating the otherwise dim cathedral. In the centre, a massive stained-glass illustration of a demon, with red eyes, alongside the demon’s other eyes, many hands, and a red robe.
+Amid a desolate salt pan, a shimmering golden cathedral stood. Inside it were several pillars, in the middle of them were pearls which glowed an eerie, faint, red, illuminating the otherwise dim cathedral. In the centre, a massive stained-glass illustration of a demon, with red eyes, alongside the demon’s other eyes, many hands, and a red robe.<br><br>
 
-Then, outside the cathedral, a massive red staff with gold accents, an endlessly changing blue orb sat in the middle of it. This staff fell onto the surrounding salt pan. The staff easily destroyed the small planet, while also destroying ten pillars near a door to nowhere.
-The world collapsed, and the universe fed into one singular point, a singularity of every single story in existence. From the most well-known, most loved, to the least well-known, forgotten stories made by cavemen in the halcyon days of yore.
+Then, outside the cathedral, a massive red staff with gold accents, an endlessly changing blue orb sat in the middle of it. This staff fell onto the surrounding salt pan. The staff easily destroyed the small planet, while also destroying ten pillars near a door to nowhere.<br><br>
+
+The world collapsed, and the universe fed into one singular point, a singularity of every single story in existence. From the most well-known, most loved, to the least well-known, forgotten stories made by cavemen in the halcyon days of yore.<br><br>
+
 * * * * *
-Across the sands of the Infinite Shore, the shore of universes outside the bounds of the story that will be told, slept a dragon. 
+Across the sands of the Infinite Shore, the shore of universes outside the bounds of the story that will be told this chapter, slept a dragon.<br><br>
 
-It surrounded the shore. It surrounded the Tree of Creation.
+It surrounded the shore. It surrounded the Tree of Creation.<br><br>
 
-The dragon was dreaming in the depths of nothingness, Voru
+The dragon was dreaming in the depths of nothingness, Voru<br><br>
 
-The dragon was dreaming in the heights of the absolute void, Gwaktåd.
+The dragon was dreaming in the heights of the absolute void, Gwaktåd.<br><br>
 
-The dragon was dreaming in the depths of a backwater planet, Earth.
+The dragon was dreaming in the depths of a backwater planet, Earth.<br><br>
 
-The dragon was dreaming in the depths of time itself.
+The dragon was dreaming in the depths of time itself.<br><br>
 
-The dragon was dreaming the past, the past within the future, the future, the future within the past, the past within the past, the future within the future. The dragon dreamed of stories, stories within stories, stories that didn't exist, couldn't exist, shouldn't exist, stories that weren't written, stories that had been forgotten, stories reconstructed.
+The dragon was dreaming the past, the past within the future, the future, the future within the past, the past within the past, the future within the future. The dragon dreamed of stories, stories within stories, stories that didn't exist, couldn't exist, shouldn't exist, stories that weren't written, stories that had been forgotten, stories reconstructed.<br><br>
 
-Questions such as “What is the dragon?” or ”Why does an extra-universal entity resemble a dragon?” may be asked. In truth, the “dragon” is not entirely a dragon. The dragon is a complex web of nodes that just happens to resemble a dragon. Maybe it was intentional, though the idea that the dragon only resembles a dragon is due to the mind being incapable of comprehending it as anything else is more compelling. The dragon was like a tree, whose branches, eyes, wings, whatever you choose to call them, they’re creatures conquered by it, these branches swirled around the vastness of Gwaktåd as the dragon slept. The branches were always shifting, no form suited them, no creature could define them. Some were vaguely humanoid, most were not.
+Questions such as “What is the dragon? or ”Why does an extra-universal entity resemble a dragon?” may be asked. In truth, the “dragon” is not entirely a dragon. The dragon is a complex web of nodes that just happens to resemble a dragon. Maybe it was intentional, though the idea that the dragon only resembles a dragon is due to the mind being incapable of comprehending it as anything else is more compelling. The dragon was like a tree, whose branches, eyes, wings, whatever you choose to call them, they’re creatures conquered by it, these branches swirled around the vastness of Gwaktåd as the dragon slept. The branches were always shifting, no form suited them, no creature could define them. Some were vaguely humanoid, most were not.<br><br>
 
-Then, the staff which was destroying the planet destroyed the Tree of Creation, the tree of trees, everything that existed in existence, peaceful worlds with powerful beings, organisations containing the anomalous, stories of eldritch horrors all coming down to take over worlds, a dreamer who dreamt their own universes. You could call the tree “Babel,” if you so pleased, after all, the Tree contained every story that ever would be told, could be told, minor alterations that generated a new book within this massive Tree. Think of a story you’ve read, maybe… The Call of Cthulhu, or The War of the Worlds, these books, along with all other books that have ever existed, are simply just a “component” of the Tree of Creation. These stories within the Tree form as universes, multiverses, and narratives. These stories are all nodes of the Tree… which to perception, appears to just be the branches of the Tree, and its roots. The dragon's branches were first to notice the destruction of the Tree… The staff ended the concept of “beginning” for the Tree, the staff warped time to shatter the Tree when it was being planted.
+Then, the staff which was destroying the planet destroyed the Tree of Creation, the tree of trees, everything that existed in existence, peaceful worlds with powerful beings, organisations containing the anomalous, stories of eldritch horrors all coming down to take over worlds, a dreamer who dreamt their own universes. You could call the tree “Babel,” if you so pleased, after all, the Tree contained every story that ever would be told, could be told, minor alterations that generated a new book within this massive Tree. Think of a story you’ve read, maybe… The Call of Cthulhu, or The War of the Worlds, these books, along with all other books that have ever existed, are simply just a “component” of the Tree of Creation. These stories within the Tree form as universes, multiverses, and narratives. These stories are all nodes of the Tree… which to perception, appears to just be the branches of the Tree, and its roots. The dragon's branches were first to notice the destruction of the Tree… The staff ended the concept of “beginning” for the Tree, the staff warped time to shatter the Tree when it was being planted.<br><br>
 
 Some beings glared at the staff destroying the newly planted tree, though without much interest, for them, it was a past already over, a past gone and forgotten, it was the future yet to happen, the future that already happened, but there was no “present.” For these beings, “now” didn't exist.
+The Infinite Shore, too, began to shrink, the grains of sand which made it up were falling in on themselves, turning into a singularity, becoming a singular stream of universes colliding into each other. The entities there resembled deities of all different religions, those forgotten, and others…<br><br>
 
-The Infinite Shore, too, began to shrink, the grains of sand which made it up were falling in on themselves, turning into a singularity, becoming a singular stream of universes colliding into each other. The entities there resembled deities of all different religions, those forgotten, and others…
+Back in the present, the future, the past, the past within the past, future within the past, the distinction doesn't matter, it's just a time, it was when the dragon awoke, it dreamt itself wakening, dreamt itself dreaming its wakening, no matter how high up you went, the dragon was always wakening, until, as if no time had passed, since there is no notion of "time” in this spaceless location, the dragon woke up from the countless dreams it had dreamt.<br><br>
 
-Back in the present, the future, the past, the past within the past, future within the past, the distinction doesn't matter, it's just a time, it was when the dragon awoke, it dreamt itself wakening, dreamt itself dreaming its wakening, no matter how high up you went, the dragon was always wakening, until, as if no time had passed, since there is no notion of "time” in this spaceless location, the dragon woke up from the countless dreams it had dreamt.
 The dragon watched the staff destroy the Tree, it saw the beings which cared not for the Tree's destruction, and then, the dragon appeared everywhen, and, ejected the staff from the tree, and shattered it, and its pieces fell to the depths of Voru.
 * * * * *
-Back in the salt pan, a woman with a striking black robe with long sleeves, which hid her eyes, on the robe were ears resembling the ears of Anubis. Her robe had gold and purple accents, while she wore a dark purple and black dress beneath her robe, and chains dangling off it. Intangible, changing, shifting, the future became the present, the present became the past, and the past became the future, everything, at the woman, all of it intersected, much like the beings watching the destruction of the Tree of Creation being destroyed… nothing could be set in stone about her… her form appeared to be bubbling, the universe, the multiverse, space and time, were all mundane components of her being. For a second, it was like her bubbling form ruptured, but this “rupture” was yet another mundane component of her being. Even the dragon which fixed the Tree of Creation was yet another mundane component of her.
+Back in the salt pan, a woman with a striking black robe with long sleeves, which hid her eyes, on the robe were ears resembling the ears of Anubis. Her robe had gold and purple accents, while she wore a dark purple and black dress beneath her robe, and chains dangling off it. Intangible, changing, shifting, the future became the present, the present became the past, and the past became the future, everything, at the woman, all of it intersected, much like the beings watching the destruction of the Tree of Creation being destroyed… nothing could be set in stone about her… her form appeared to be bubbling, the universe, the multiverse, space and time, were all mundane components of her being. For a second, it was like her bubbling form ruptured, but this “rupture” was yet another mundane component of her being. Even the dragon which fixed the Tree of Creation was yet another mundane component of her.<br><br>
 
-[Hyen sö jeranai…… uu-edōik Wukong pelod sānj uulengik enkhrek Ruyi…… Jerda uugeleda īll… Neka jeranei keio. Keder zeynes polej bhuheo…… Neka gödoram jeramœi thed.]
-I apologise, it appears some Ortothan has slipped through the cracks, humans, you readers can’t speak Ortothan. I’ll fix this error:
+[Hyen sö jeranai…… uu-edōik Wukong pelod sānj uulengik enkhrek Ruyi…… Jerda uugeleda īll… Neka jeranei keio. Keder zeynes polej bhuheo…… Neka gödoram jeramœi thed.]<br><br>
 
-[As expected…… Wukong destroyed the planet without controlling Ruyi’s strength…… I warned him…… yet now I must handle the clean-up. The main event lies in the future…… I’ll have to deal with this again.]
+I apologise, it appears some Ortothan has slipped through the cracks, humans, you readers can’t speak Ortothan. I’ll fix this error:<br><br>
 
-The woman spoke in a high-pitched voice, there could be multiple explanations, but no voice naturally sounds like that… something akin to a voice changer would be a best fit for what came out of her mouth. The bubbling, at this point, had calmed down, the bubbling occurred because of the destruction of the Tree of Creation, as if she was the Tree itself.
+[As expected…… Wukong destroyed the planet without controlling Ruyi’s strength…… I warned him…… yet now I must handle the clean-up. The main event lies in the future…… I’ll have to deal with this again.]<br><br>
 
-[Hume levels stable at three…… Narrative Dimension overload fixed back to normal…… and the Tree of Creation repaired…… Infinite Shore fixed…… This should mean that I fixed all the damage Wukong caused…… whether sent out of time or back in time…… Well…… it’s going to happen again in the future…… This is such a headache……]
+The woman spoke in a high-pitched voice, there could be multiple explanations, but no voice naturally sounds like that… something akin to a voice changer would be a best fit for what came out of her mouth. The bubbling, at this point, had calmed down, the bubbling occurred because of the destruction of the Tree of Creation, as if she was the Tree itself.<br><br>
 
-The woman sighs lightly, her magic circle dimming as well, before vanishing into thin air.
+[Hume levels stable at three…… Narrative Dimension overload fixed back to normal…… and the Tree of Creation repaired…… Infinite Shore fixed…… This should mean that I fixed all the damage Wukong caused…… whether sent out of time or back in time…… Well…… it’s going to happen again in the future…… This is such a headache……]<br><br>
 
-Elsewhere within the salt pan, a strange creature, with tentacles for arms, stood. Its most distinguishable traits were its striking white body, contrasting its black arms. The creature had no facial features and a dark, yet vibrant flame on the right side of its body.
+The woman sighs slightly, her magic circle dimming as well, before vanishing into thin air.<br><br>
 
-[Ahahaha… a vermin is now on the lands of the King? How impudent. Especially after lord Jeser granted me power…]
+Elsewhere within the salt pan, a strange creature, with tentacles for arms, stood. Its most distinguishable traits were its striking white body, contrasting its black arms. The creature had no facial features and a dark, yet vibrant flame on the right side of its body.<br><br>
 
-The creature spoke, every single word that he spoke oozed arrogance.
+[Ahahaha… a vermin is now on the lands of the King? How impudent. Especially after lord Jeser granted me power…]<br><br>
 
-[How surprising…… The Ŵīltăyăs remain as arrogant as ever.]
+The creature spoke, every single word that he spoke oozed arrogance.<br><br>
 
-The woman spoke about the creature— the Ŵīltăyă, whose tendrils unravelled, slashing at the lady, who dodged, as her robe vanished, for a second, the world bubbled into nothingness, for a second, everything happened at once, for a second… Without a robe, her appearance could be mistaken as a bisque doll, her wavy silver hair glimmered in the salt pan that surrounded her. Her outfit was gray, and form-fitting, with black accents, it appeared to be the outfit of an assassin, or something similar. The colour of her eyes was a light blue, though the colour changed intensity, and on her face, she had a white opera mask on, its intricate designs contrasted the plain colours it had, while multiple feathers were on its right side. Placed around her entire outfit were pouches, seemingly with no pattern as to where they were placed. She didn't look tall, but was tall, she didn't look short, but was short, to her, height didn't matter.
+[How surprising…… The Ŵīltăyăs remain as arrogant as ever.]<br><br>
 
-[Well~~ if you want a fight~~ I can give that to you~~ just be prepared to lose~~]
+The woman spoke about the creature— the Ŵīltăyă, whose tendrils unravelled, slashing at the lady, who dodged, as her robe vanished, for a second, the world bubbled into nothingness, for a second, everything happened at once, for a second… Without a robe, her appearance could be mistaken as a bisque doll, her wavy silver hair glimmered in the salt pan that surrounded her. Her outfit was gray, and form-fitting, with black accents, it appeared to be the outfit of an assassin, or something similar. The colour of her eyes was a light blue, though the colour changed intensity, and on her face, she had a white opera mask on, its intricate designs contrasted the plain colours it had, while multiple feathers were on its right side. Placed around her entire outfit were pouches, seemingly with no pattern as to where they were placed. She didn't look tall, but was tall, she didn't look short, but was short, to her, height didn't matter.<br><br>
 
-[Me? Lose? Do you think I’d ever lose to a fool such as you? You’re a clown, you know that?]
+[Well~~ if you want a fight~~ I can give that to you~~ just be prepared to lose~~]<br><br>
 
-[A clown~~? Maybe I am~~ well~~ if I’m a clown~~ what are you? The entire circus?]
+[Me? Lose? Do you think I’d ever lose to a fool such as you? You’re a clown, you know that?]<br><br>
 
-[Tch. Insolent girl~~ you should not speak like that to someone stronger.]
+[A clown~~? Maybe I am~~ well~~ if I’m a clown~~ what are you? The entire circus?]<br><br>
 
-[But~~ you’re not really stronger than me~~ now~~ are you~~? So why should I respect you~~?]
+[Tch. Insolent girl~~ you should not speak like that to someone stronger.]<br><br>
 
-[Say that when you win.]
+[But~~ you’re not really stronger than me~~ now~~ are you~~? So why should I respect you~~?]<br><br>
 
-[Well~~ I’m ready whenever you are~~ let’s settle this~~]
+[Say that when you win.]<br><br>
 
-The woman took out a dagger from one of her pouches, and then, she flung it at the Ŵīltăyă who tried to deflect it, but his tendrils were cut off. 
+[Well~~ I’m ready whenever you are~~ let’s settle this~~]<br><br>
 
-[Annoying rodent. Well, in any case, you’re foolish, none of your attacks will ever kill me, I’m immune to everything you’re capable of.]
+The woman took out a dagger from one of her pouches, and then, she flung it at the Ŵīltăyă who tried to deflect it, but his tendrils were cut off.<br><br>
 
-[Ah~~ you’re a stupid one~~ huh~~? Watch me kill you.]
+[Annoying rodent. Well, in any case, you’re foolish, none of your attacks will ever kill me, I’m immune to everything you’re capable of.]<br><br>
 
-The Ŵīltăyă was hit with many daggers. The daggers fell from many piano wires, which were seemingly set up by the woman.
+[Ah~~ you’re a stupid one~~ huh~~? Watch me kill you.]<br><br>
 
-[Fucking clown! You and your little tricks.]
+The Ŵīltăyă was hit with many daggers. The daggers fell from many piano wires, which were seemingly set up by the woman.<br><br>
 
-The Ŵīltăyă tries to dodge the dagger, while many more daggers fly in from all directions. As the Ŵīltăyă finally touched base with the ground, the woman threw down her dagger.
+[Fucking clown! You and your little tricks.]<br><br>
 
-[What? Accepting your loss?]
+The Ŵīltăyă tries to dodge the dagger, while many more daggers fly in from all directions. As the Ŵīltăyă finally touched base with the ground, the woman threw down her dagger.<br><br>
 
-[Far from it~~ I’m claiming my victory.]
+[What? Accepting your loss?]<br><br>
 
-[Wha-]
+[Far from it~~ I’m claiming my victory.]<br><br>
 
-In an instant, the Ŵīltăyă is skewered by many spikes, and large black nails, that coalesced from the shadows of the Ŵīltăyă and skewered him.
+[Wha-]<br><br>
+
+In an instant, the Ŵīltăyă is skewered by many spikes, and large black nails, that coalesced from the shadows of the Ŵīltăyă and skewered him.<br><br>
 
 * * * * *
 
@@ -149,107 +152,109 @@ In an instant, the Ŵīltăyă is skewered by many spikes, and large black nails
 </div>`.replace(/\[(.*?)\]/g, '<span style="color: #e9688e; font-style: italic;">[$1]</span>')
 }, {
     title: "The Prince of Many Faces",
-    content: `After the Ŵīltăyă was killed, the woman looked towards the horizon and spotted a figure, moving, and spying on her. Her robe reappeared, as ten golden daggers flew at the figure in the distance. However, the daggers were merely burned up in the flames covering the right side of the figure’s body; much like the Ŵīltăyă before.
+    content: `After the Ŵīltăyă was killed, the woman looked towards the horizon and spotted a figure, moving, and spying on her. Her robe reappeared, as ten golden daggers flew at the figure in the distance. However, the daggers were merely burned up in the flames covering the right side of the figure’s body; much like the Ŵīltăyă before.<br><br>
 
-[So you’re Jeser huh…… or…… to be more precise…… you’re Jeser under a false disguise.]
+[So you’re Jeser huh…… or…… to be more precise…… you’re Jeser under a false disguise.]<br><br>
 
-[I’m surprised, you got that correct.]
+[I’m surprised, you got that correct.]</span><br><br>
 
-Jeser, in their feminine disguise, spoke with two overlapping voices—one male and one female. The male voice dominated as if it was the one taking control over the other voice.
+Jeser, in their feminine disguise, spoke with two overlapping voices—one male and one female. The male voice dominated as if it was the one taking control over the other voice.<br><br>
 
-[I am the Queen of Information…… Of course I did.]
+[I am the Queen of Information…… Of course I did.]<br><br>
 
-[Queen of Information, you say? How droll. You barely know about yourself and consider yourself the “Queen of Information”?]
+[Queen of Information, you say? How droll. You barely know about yourself and consider yourself the “Queen of Information”?]<br><br>
 
-[Knowing about…… myself is meaningless…… I have no reason to care. All I need is to know my enemies. ]
+[Knowing about…… myself is meaningless…… I have no reason to care. All I need is to know my enemies…… And…… it seems to me that Aiv-Zōn’s personality…… is rubbing off on you……]<br><br>
 
-[Wasn’t the saying “If you know the enemy and know yourself, you need not fear the result of a hundred battles”?]
+[Wasn’t the saying “If you know the enemy and know yourself, you need not fear the result of a hundred battles”?]<br><br>
 
-[That…… refers only to battle capabilities…… not personal matters like one’s past…… Regardless…… it seems to me that Aiv-Zōn’s personality…… is rubbing off on you…… Or…… I guess you know him has the Scarlet King.]
+[That…… refers only to battle capabilities…… not personal matters like one’s past……]<br><br>
 
-[Fine then, have it your way. A polite conversation isn’t what I’m here for. Since you killed my subordinate, I have to fight you.]
+[Fine then, have it your way. A polite conversation isn’t what I’m here for. Since you killed my subordinate, I have to fight you.]<br><br>
 
-[Well…… that's fine, but…… you won't be killing me any time soon.]
+[Well…… that's fine, but…… you won't be killing me any time soon.]<br><br>
 
-[We’ll see about that. If you’re the so-called “Queen of Information,” I doubt you’ll show me your true power, will you?]
+[We’ll see about that. If you’re the so-called “Queen of Information,” I doubt you’ll show me your true power, will you?]<br><br>
 
-[Of course not…… It would be foolish……]
+[Of course not…… It would be foolish……]<br><br>
 
-[Well, that’s fine, I have surprises lined up for you too.]
+[Well, that’s fine, I have surprises lined up for you too.]<br><br>
 
-[Oh? Like…… say……. your regeneration snake four hundred metres southeast…… or your magic-infused air bubbles……?]
+[Oh? Like…… say……. your regeneration snake four hundred metres southeast…… or your magic-infused air bubbles……?]<br><br>
 
-[Tch. Well, I have to say, you’re good, but you don’t seem to know everything I have in store.]
+[Tch. Well, I have to say, you’re good, but you don’t seem to know everything I have in store.]<br><br>
 
-[Not even curious……. how I know? As well…… I know more than just that…… You practised throwing a ball…… likely a magic bomb. Its power is insufficient to harm me…… And you have a “Voruteut” as your host body…… perfect for this…… isn’t it?]
+[Not even curious……. how I know? As well…… I know more than just that…… You practised throwing a ball…… likely a magic bomb. Its power is insufficient to harm me…… And you have a “Voruteut” as your host body…… perfect for this…… isn’t it?]<br><br>
 
-[How… I made sure I had no spectators.]
+[How… I made sure I had no spectators.]<br><br>
 
-[As I said…… I am the Queen of Information… There’s no way I wouldn’t know everything about you]
+[As I said…… I am the Queen of Information… There’s no way I wouldn’t know everything about you]<br><br>
 
-[W-well then, If you know so much, do you even know my past?]
+[W-well then, If you know so much, do you even know my past?]<<br><br>
 
-There was no arrogance in Jeser’s voice, only a sombre feeling. They truly desired to know his past, it felt like he had tried over and over, again and again, failing time and time again.
+There was no arrogance in Jeser’s voice, only a sombre feeling. They truly desired to know his past, it felt like he had tried over and over, again and again, failing time and time again.<br><br>
 
-[That is…… not something I am obliged to tell you…… What I will say is that…… do not believe the words of Aiv-Zōn as the pure truth…… maybe…… if you are able to change…… maybe…… just maybe…… I will tell you the truth.]
+[That is…… not something I am obliged to tell you…… What I will say is that…… do not believe the words of Aiv-Zōn as the pure truth…… maybe…… if you are able to change…… maybe…… just maybe…… I will tell you the truth.]<br><br>
 
-[Fine, I’ll believe you. Once I beat you, I’ll extract all the information about my past from you.]
+[Fine, I’ll believe you. Once I beat you, I’ll extract all the information about my past from you.]<br><br>
 
-[You can try…… But I don’t want to reveal too much. So…… Φανερός…… Ἀρχάγγελος.]
+[You can try…… But I don’t want to reveal too much. So…… Φανερός…… Ἀρχάγγελος.]<br><br>
 
-(Author Note: Φανερός, Ἀρχάγγελος is read “Fanerós, Archángelos,” which is Ancient Greek for “Manifest, Archangel.”)
+(Author Note: Φανερός, Ἀρχάγγελος is read “Fanerós, Archángelos,” which is Ancient Greek for “Manifest, Archangel.”)<br><br>
 
-Then, an angelic being appeared, clad in twenty wings with hundreds of eyes on each of them. A golden glow shone from her body, her skin was pale white, and her eyes were a gleaming golden hue. If there was one way to describe her, it’d be “Light.” The word light practically emanated from like, like, say, light.
-Instantly, a bright golden spear of light struck Jeser, as hundreds more appeared, each piercing Jeser’s skin.
+Then, an angelic being appeared, clad in twenty wings with hundreds of eyes on each of them. A golden glow shone from her body, her skin was pale white, and her eyes were a gleaming golden hue. If there was one way to describe her, it’d be “Light.” The word light practically emanated from like, like, say, light.<br><br>
 
-[Shit. This is not good……]
+Instantly, a bright golden spear of light struck Jeser, as hundreds more appeared, each piercing Jeser’s skin.<br><br>
 
-Jeser was coughing, and wheezing, attempting to regain control of the fight. They could do nothing but watch as more beams of light surrounded him. However, in an instant, the beams were dispelled by an immense red aura.
+[Shit. This is not good……]<br><br>
 
-[Strange Power. Red Aura. Identified Origin. Scarlet Sinner.]
+Jeser was coughing, and wheezing, attempting to regain control of the fight. They could do nothing but watch as more beams of light surrounded him. However, in an instant, the beams were dispelled by an immense red aura.<br><br>
 
-The Archangel lady spoke in an odd, robotic tone. Her voice sent shivers down Jeser’s spine, despite being protected from the beams of light, they could do nothing but cower in fear.
+[Strange Power. Red Aura. Identified Origin. Scarlet Sinner.]<br><br>
 
-Before the Archangel could attack once more, a magic circle surrounded Jeser, still cowering in fear.
+The Archangel lady spoke in an odd, robotic tone. Her voice sent shivers down Jeser’s spine, despite being protected from the beams of light, they could do nothing but cower in fear.<br><br>
 
-[Escape? Interesting Choice. In The End, Action, Meaningless.]
+Before the Archangel could attack once more, a magic circle surrounded Jeser, still cowering in fear.<br><br>
 
-As the magic circle grew in intensity, the Archangel readied two glowing spears, and struck the magic circle, destroying it.
+[Escape? Interesting Choice. In The End, Action, Meaningless.]<br><br>
 
-[Di-didn’t that phantom bubble have several authors in it… and she quite easily shattered the magic circle and the connecting narrative… What is this monster.]
-In Jeser’s mind, a voice rang out, a deep, cruel voice, full of only hatred.
+As the magic circle grew in intensity, the Archangel readied two glowing spears, and struck the magic circle, destroying it.<br><br>
 
-(Jeser. I do not expect you to survive, I do not expect you to even come back without injury, however, I will tell you about your past if you return with some information.)
+[Di-didn’t that phantom bubble have several authors in it… and she quite easily shattered the magic circle and the connecting narrative… What is this monster.]<br><br>
 
-Jeser thought for a moment, they needed to know their past, so they had to gain some bit of information.
+In Jeser’s mind, a voice rang out, a deep, cruel voice, full of only hatred.<br><br>
 
-(My lord, the great Scarlet King, I accept your offer, I shall gather as much information as I can before escaping.)
+(Jeser. I do not expect you to survive, I do not expect you to even come back without injury, however, I will tell you about your past if you return with some information.)<br><br>
 
-(Good. I expect your arrival soon.)
+Jeser thought for a moment, they needed to know their past, so they had to gain some bit of information.<br><br>
 
-[Krulåva…… Go easy on him. I don’t need a child like him dead.]
+(My lord, the great Scarlet King, I accept your offer, I shall gather as much information as I can before escaping.)<br><br>
 
-[Processing Request… Understood.]
+(Good. I expect your arrival soon.)<br><br>
 
-Jeser stood before the archangel, Krulåva, more determined than before. Their body rapidly healed from the prior grievous injuries.
+[Krulåva…… Go easy on him. I don’t need a child like him dead.]<br><br>
 
-[I may not beat you at full power, but you sure as hell ain’t killing me, my Regeneration Snake can bring me back from reality erasure itself! And it’s locked behind an infinite barrier, something you can never cross, no matter how strong you are.]
+[Processing Request… Understood.]<br><br>
 
-[Foolish, Watch.]
+Jeser stood before the archangel, Krulåva, more determined than before. Their body rapidly healed from the prior grievous injuries.<br><br>
 
-Jeser felt a shiver run down their spine as Krulåva spoke those words in a cruel, indifferent, inflectionless, intonationless, voice spoke to them. In a flash of light, the snake that was protected by an infinite barrier, and the surrounding salt pan was completely and utterly melted by a single beam. The idea of infinity soon became finite, and the idea of finity soon became infinite. The beam of light had been stopped, and been pushed back again and again, but it kept going, shattering past the barrier, making its “infinity” equate to nothing in comparison to what the beam of light was.
+[I may not beat you at full power, but you sure as hell ain’t killing me, my Regeneration Snake can bring me back from reality erasure itself! And it’s locked behind an infinite barrier, something you can never cross, no matter how strong you are.]<br><br>
 
-[Hahaha… this is some insane power, but, this is also information… valuable information at that. I’ll see what more information I can gain here…]
+[Foolish, Watch.]<br><br>
 
-Dark, black, flames run up to Krulåva and cover her, however, she easily dispels the fire, before pelting Jeser with more beams of light, which they barely dodge.
+Jeser felt a shiver run down their spine as Krulåva spoke those words in a cruel, indifferent, inflectionless, intonationless, voice spoke to them. In a flash of light, the snake that was protected by an infinite barrier, and the surrounding salt pan was completely and utterly melted by a single beam. The idea of infinity soon became finite, and the idea of finity soon became infinite. The beam of light had been stopped, and been pushed back again and again, but it kept going, shattering past the barrier, making its “infinity” equate to nothing in comparison to what the beam of light was. <br><br>
 
-[I’m not sure how much longer I can hold out here… So… I’ll call it quits, I’ll hand over the Voruteut body as well.]
+[Hahaha… this is some insane power, but, this is also information… valuable information at that. I’ll see what more information I can gain here…]<br><br>
 
-[Acknowledged. Under the orders of my queen, I will permit you  to leave.]
+Dark, black, flames run up to Krulåva and cover her, however, she easily dispels the fire, before pelting Jeser with more beams of light, which they barely dodge.<br><br>
 
-Jeser was still shivering, despite her seemingly normal voice, something about her exuded an air of authority. “He has to leave”, “He can’t continue fighting, or else, he’s dead.” Those were the thoughts that ran through his head.
+[I’m not sure how much longer I can hold out here… So… I’ll call it quits, I’ll hand over the Voruteut body as well.]</span><br><br>
 
-In a burst of light, the flames on the Voruteut girl vanished, and presumably, Jeser with it. Krulåva vanished back into the woman’s shadow, which now had glowing golden eyes, always watching.
+[Acknowledged. Under the orders of my queen, I will permit you  to leave.]<br><br>
+
+Jeser was still shivering, despite her seemingly normal voice, something about her exuded an air of authority. “He has to leave”, “He can’t continue fighting, or else, he’s dead.” Those were the thoughts that ran through his head.<br><br>
+
+In a burst of light, the flames on the Voruteut girl vanished, and presumably, Jeser with it. Krulåva vanished back into the woman’s shadow, which now had glowing golden eyes, always watching.<br> <br>
 
 The woman stopped the Voruteut girl from falling, as her form continued to bubble, as spacetime reached critical hazard, and the world collapsed, yet again, into a singularity. The destructive nature of the woman was, bit by bit, destroying every universe, and of course, this commentary. As the bubbling calmed down, space and time existed again, though several holes were in spacetime, this would’ve reflected in the body of the woman, but it did not, the “holes“ that existed in spacetime, despite having just formed, became a component of the woman, another mundane component.
 <div class="afterword-section">
@@ -280,109 +285,109 @@ The woman stopped the Voruteut girl from falling, as her form continued to bubbl
 </div>`
 }, {
     title: "A King Filled with Lies",
-    content: `[My lord, I have uncovered some major details about the opposing troops.]
+    content: `[My lord, I have uncovered some major details about the opposing troops.]<br><br>
 
-Jeser was kneeling before a throne with a demonic creature; clad in a crimson body, and with red eyes, the same as the one from the portrait. It was the Scarlet King. 
+Jeser was kneeling before a throne with a demonic creature; clad in a crimson body, and with red eyes, the same as the one from the portrait. It was the Scarlet King. <br><br>
 
-[Jeser, worry not, I was watching, listening, I saw what happened.]
+[Jeser, worry not, I was watching, listening, I saw what happened.]<br><br>
 
-[I understand. As for information about my past…]
+[I understand. As for information about my past…]<br><br>
 
-[I see… in that case if you think you are ready to know, and you truly wish to know, I shall grant you your wish.]
+[I see… in that case if you think you are ready to know, and you truly wish to know, I shall grant you your wish.]<br><br>
 
-[Yes, I am ready for it, my lord.]
+[Yes, I am ready for it, my lord.]<br><br>
 
-The King sighs, pausing for a moment, with an indescribable emotion on his demonic face, before speaking once more. His words were quiet, despite his otherworldly appearance.
+The King sighs, pausing for a moment, with an indescribable emotion on his demonic face, before speaking once more. His words were quiet, despite his otherworldly appearance.<br><br>
 
-[Some long while ago, there was a power-hungry man named Nefel, he was the devil. He may still be around to this day, I know not of his whereabouts, but rumour has it that he is always lurking. For æons, he would hunt for people to gather misery from. Despite not having the power to feed himself from misery, he did so anyway. For this, he would always use his ability to “encompass” anything and everything imaginable.]
+[Some long while ago, there was a power-hungry man named Nefel, he was the devil. He may still be around to this day, I know not of his whereabouts, but rumour has it that he is always lurking. For æons, he would hunt for people to gather misery from. Despite not having the power to feed himself from misery, he did so anyway. For this, he would always use his ability to “encompass” anything and everything imaginable.]<br><br>
 
-Jeser tilted his head in confusion, pondering what it meant to encompass something.
+Jeser tilted his head in confusion, pondering what it meant to encompass something.<br><br>
 
-[To explain what may be on your mind at this moment; think of a star.]
+[To explain what may be on your mind at this moment; think of a star.]<br><br>
 
-The King responded, noticing Jeser’s confusion on the topic.
+The King responded, noticing Jeser’s confusion on the topic.<br><br>
 
-[Yes, I can.]
+[Yes, I can.]<br><br>
 
-[How hot would you say that star is?]
+[How hot would you say that star is?]<br><br>
 
-Jeser ponders the question given by the king for a moment.
+Jeser ponders the question given by the king for a moment.<br><br>
 
-[One million degrees?]
+[One million degrees?]<br><br>
 
-[Now, with that in mind, listen carefully to what happens when something is encompassed, when he encompasses something, he would become immune to that thing.]
+[Now, with that in mind, listen carefully to what happens when something is encompassed, when he encompasses something, he would become immune to that thing.]<br><br>
 
-[So, it would be the star in this case?]
+[So, it would be the star in this case?]<br><br>
 
-[Yes, you are correct. Furthermore, he would perpetually gain a stronger version of that ability. Fathom what that would be like.]
+[Yes, you are correct. Furthermore, he would perpetually gain a stronger version of that ability. Fathom what that would be like.]<br><br>
 
-[…Would his powers give him a star that’s two million degrees hot?]
+[…Would his powers give him a star that’s two million degrees hot?]<br><br>
 
-[Far from it, it would be one trillion degrees hot.]
+[Far from it, it would be one trillion degrees hot.]<br><br>
 
-[I see… what a frightening power.]
+[I see… what a frightening power.]<br><br>
 
-[With this power, he could also brainwash people, and force them to do his bidding. He would just encompass them, they could no longer fight back against him, and he was a sly one as well. He always weaved his words perfectly, every lie he told was believable. He was good at what he did.]
+[With this power, he could also brainwash people, and force them to do his bidding. He would just encompass them, they could no longer fight back against him, and he was a sly one as well. He always weaved his words perfectly, every lie he told was believable. He was good at what he did.]<br><br>
 
-[…And he did all of that to my small town?]
+[…And he did all of that to my small town?]<br><br>
 
-[Yes, it did not take long for him to do so. With his capability to encompass beings, he could encompass anyone; from the lowliest peasant to the greatest nobles, and the king even. And as he did that, he would weave his words to perfection, like he always did.]
+[Yes, it did not take long for him to do so. With his capability to encompass beings, he could encompass anyone; from the lowliest peasant to the greatest nobles, and the king even. And as he did that, he would weave his words to perfection, like he always did.]<br><br>
 
-Jeser looked mortified, the power owned by this Nefel, and the shattering of minds was all too much to process.
+Jeser looked mortified, the power owned by this Nefel, and the shattering of minds was all too much to process.<br><br>
 
-[After conquering the city, he would routinely roam around the village, anyone who dared speak out against him was executed, well, not before being ruthlessly tortured first. During one of those routine checks, he found something that piqued his interest, he found you.]
+[After conquering the city, he would routinely roam around the village, anyone who dared speak out against him was executed, well, not before being ruthlessly tortured first. During one of those routine checks, he found something that piqued his interest, he found you.]<br><br>
 
-[He found m-me?]
+[He found m-me?]<br><br>
 
-[Nefel was immediately interested in you, after all, you were powerful, but you also didn’t know what to do with your power. Everything in the world, but a mortal life span like everyone else. So, he chose to teach you]
+[Nefel was immediately interested in you, after all, you were powerful, but you also didn’t know what to do with your power. Everything in the world, but a mortal life span like everyone else. So, he chose to teach you]<br><br>
 
-[And then… he…. taught me?]
+[And then… he…. taught me?]<br><br>
 
-[Yes, at first, it was normal, but, as time went on, the assignments he had you do took a massive turn, from something normal, like training your flames to burn some small stuff, to destroying entire opposing villages with just your flames alone.]
+[Yes, at first, it was normal, but, as time went on, the assignments he had you do took a massive turn, from something normal, like training your flames to burn some small stuff, to destroying entire opposing villages with just your flames alone.]<br><br>
 
-[I could do that… as a child? Those villages were probably protected by the gods! I couldn’t do anything like that even now if I tried.]
+[I could do that… as a child? Those villages were probably protected by the gods! I couldn’t do anything like that even now if I tried.]<br><br>
 
-[Despite his morality, Nefel was a good teacher, he could teach any subject to immense perfection, and make sure that information stuck with you forever.]
+[Despite his morality, Nefel was a good teacher, he could teach any subject to immense perfection, and make sure that information stuck with you forever.]<br><br>
 
-[I-I see… so, what next?]
+[I-I see… so, what next?]<br><br>
 
-[When he continued teaching you, he noticed something… your morals as a living being stopped you from doing the things he wanted you to. So, he chose a simple option, to rip out your memories, and recreate them with no morals, whatsoever,]
+[When he continued teaching you, he noticed something… your morals as a living being stopped you from doing the things he wanted you to. So, he chose a simple option, to rip out your memories, and recreate them with no morals, whatsoever,]<br><br>
 
-[W-wait, if he ripped out my memories, how do you know, my lord?]
+[W-wait, if he ripped out my memories, how do you know, my lord?]<br><br>
 
-[In truth, I was there as a subordinate of Nefel’s, I truly thought at the time he was righteous, but I was a foolish man back then. As I saw him torturing you, over and over again, I couldn’t stop myself from saving you from his claws when he tore out your memories.]
+[In truth, I was there as a subordinate of Nefel’s, I truly thought at the time he was righteous, but I was a foolish man back then. As I saw him torturing you, over and over again, I couldn’t stop myself from saving you from his claws when he tore out your memories.]<br><br>
 
-[I-I truly am grateful for that, my lord.]
+[I-I truly am grateful for that, my lord.]<br><br>
 
-[No need, I only did what anyone should have done in that situation.]
+[No need, I only did what anyone should have done in that situation.]<br><br>
 
-In the shadows, some henchmen of the Scarlet King watched, all of their orbs glowed a faint blue. They listened but did not speak. When one whispered, the King ordered their silence.
+In the shadows, some henchmen of the Scarlet King watched, all of their orbs glowed a faint blue. They listened but did not speak. When one whispered, the King ordered their silence.<br><br>
 
-[Well, continuing where we left off… I had to flee from Nefel, he was far too strong for me to be able to handle in any meaningful manner. As I ran with the memory orb in hand, I tried giving it back to you, but all attempts failed, with nothing better to do, I absorbed it myself like I did my brothers.]
+[Well, continuing where we left off… I had to flee from Nefel, he was far too strong for me to be able to handle in any meaningful manner. As I ran with the memory orb in hand, I tried giving it back to you, but all attempts failed, with nothing better to do, I absorbed it myself like I did my brothers.]<br><br>
 
-[Your brothers?]
+[Your brothers?]<br><br>
 
-[Ah, forgive me, I got sidetracked. As I was saying, I had no better option than to just absorb your memories, and so, I gained these abilities. And with it, I saw the truly horrifying crimes Nefel had committed against you, and your people, even the crimes he committed before I had joined. Watching the memories was akin to torture. Therefore, I chose to start a journey, to help you regain your morality, to help you learn. And, I think you should know the rest, right Jeser?]
+[Ah, forgive me, I got sidetracked. As I was saying, I had no better option than to just absorb your memories, and so, I gained these abilities. And with it, I saw the truly horrifying crimes Nefel had committed against you, and your people, even the crimes he committed before I had joined. Watching the memories was akin to torture. Therefore, I chose to start a journey, to help you regain your morality, to help you learn. And, I think you should know the rest, right Jeser?]<br><br>
 
-[Yes, I do.]
+[Yes, I do.]<br><br>
 
-Jeser walked out of the corridor of the king, and the henchmen loosened up.
+Jeser walked out of the corridor of the king, and the henchmen loosened up.<br><br>
 
-[You lot, you’re all dismissed. I shall see you all tomorrow, do not be late.]
+[You lot, you’re all dismissed. I shall see you all tomorrow, do not be late.]<br><br>
 
-[[[[Understood!!!]]]]
+[[[[Understood!!!]]]]<br><br>
 
-The four henchmen spoke in unison and promptly departed, each going their own ways.
+The four henchmen spoke in unison and promptly departed, each going their own ways.<br><br>
 
-[Like I thought… he also failed to ever tell the truth.]
+[Like I thought… he also failed to ever tell the truth.]<br><br>
 
-One spoke in the shadows of the night as he exited the building, his eyes hidden behind a blindfold with centipede illustrations upon it, before long, he found himself before another throne, pitch black vines, contrasting with the red and white flowers blooming upon them.
+One spoke in the shadows of the night as he exited the building, his eyes hidden behind a blindfold with centipede illustrations upon it, before long, he found himself before another throne, pitch black vines, contrasting with the red and white flowers blooming upon them.<br><br>
 
-[The great Phantasmal Queen of Space and Time, I have returned, and as you predicted, the Scarlet Sinner never told the truth about the past of Jeser.]
+[The great Phantasmal Queen of Space and Time, I have returned, and as you predicted, the Scarlet Sinner never told the truth about the past of Jeser.]<br><br>
 
-He spoke to his queen, the woman from before. Her robe blended in with the surrounding thorns, and she spoke in the same robotic tone as before.
+He spoke to his queen, the woman from before. Her robe blended in with the surrounding thorns, and she spoke in the same robotic tone as before.<br><br>
 
-[Good work…… as always…… Montauk.]
+[Good work…… as always…… Montauk.]<br><br>
 
 <div class="afterword-section">
     <h2>Afterword</h2>
@@ -411,115 +416,117 @@ He spoke to his queen, the woman from before. Her robe blended in with the surro
 </div>`
 }, {
     title: "Meeting",
-    content: `In the massive throne room of the Phantasmal Queen of Space and Time, a subordinate of hers, cloaked in black, was standing before her throne.
+    content: `In the massive throne room of the Phantasmal Queen of Space and Time, a subordinate of hers, cloaked in black, was standing before her throne.<br><br>
 
-[Great Queen of ours, the Koru-teusa have gathered a meeting at the Devourer’s Cathedral.]
+[Great Queen of ours, the Koru-teusa have gathered a meeting at the Devourer’s Cathedral.]<br><br>
 
-[Understood…… send them a message immediately with my acceptance……]
+[Understood…… send them a message immediately with my acceptance……]<br><br>
 
-[Yes!]
+[Yes!]<br><br>
 
-As the subordinate of the Phantasmal Queen left, she sighed, as her voice became normal sounding.
+As the subordinate of the Phantasmal Queen left, she sighed, as her voice became normal sounding.<br><br>
 
-[I really do have to go back to the place of that devourer again, don’t I~~?]
+[I really do have to go back to the place of that devourer again, don’t I~~?]<br><br>
 
-The Phantasmal Queen removed her robe, putting it near her throne, revealing her dress beneath the robe, a dark purple and black dress with intricate gold accents.
-She walked regally outside her door, appearing in the cathedral of the salt pan immediately, its orbs glowing a vibrant blue this time around, the Scarlet King mural on the wall shattered.
+The Phantasmal Queen removed her robe, putting it near her throne, revealing her dress beneath the robe, a dark purple and black dress with intricate gold accents.<br><br>
 
-There, seven people gathered an angelic woman with pure white hair, with leaves and flowers accentuating the hair. She had 20 wings on her back, and 3 on either side of her head, each a brilliant white with many feathers. Her clothing was a divine white, and red, contrasting her light-blue, almost white eyes. Her existence was chaotic, creating and not creating, existing and not existing, what is and isn't, everything that IS and IS NOT… in a sense, she was not a being, she was a universal truth, but she was not a universal truth, she was a living thing. She was the Tree, the spirit of the Tree, the one who creates, the one who destroys, destroying everything, creating everything, space, time, anything. Space, time, the concepts which the Phantasmal Queen of Space and Time embodied, like everything was a mundane component of the Phantasmal Queen, the Phantasmal Queen, and everything else in creation was a component of the web of nodes that make up “Creation.”
-Another man stood, his eyes gleaming a dark red, with a luxurious blue kimono, with red accents, with a white haori, while his haneri was also white. His hakama was a mix of white and black stripes, he had on a white, furry, haori himo as well. His existence was existence, existing everywhere, all at once. Part of him was everything, everything and everything, spacetime, chaos, void, death, creation, everything was part of him. 
+She walked outside her palace door, appearing in the cathedral of the salt pan immediately, its orbs glowing a vibrant blue this time around, the Scarlet King mural on the wall shattered.<br><br>
 
-Next to him was a woman, with pink hair, in a suit, with a long skirt that flowed to her knees, with red accents on both her skirt and suit. She had a massive red cloak with black fur covering her body. Despite being young for a concept, she has existed since time immemorial, concepts exist, have existed, will exist, forever She was order, her existence was order, balance. 
+There, seven people gathered an angelic woman with pure white hair, with leaves and flowers accentuating the hair. She had 20 wings on her back, and 3 on either side of her head, each a brilliant white with many feathers. Her clothing was a divine white, and red, contrasting her light-blue, almost white eyes. Her existence was chaotic, creating and not creating, existing and not existing, what is and isn't, everything that IS and IS NOT… in a sense, she was not a being, she was a universal truth, but she was not a universal truth, she was a being. If the Phantasmal Queen had been the idea of space and time, she was the thing that created it, the quantum fluctuations.<br><br>
 
-Some distance from her was a monkey with a golden headband, a tiger skin jacket, a navy blue shirt, and a small cape. He was chaos, normality, strength, weakness… His existence is relatively new, as new as strength itself, but even then, he has existed since creation, it doesn’t matter “when” he was born, he was born at sometime, and he was never born, born in the future, born in the past, whenever… Regardless, he was the incarnation of strength. 
+Another man stood, his eyes gleaming a dark red, with a luxurious blue kimono, with red accents, with a white haori, while his haneri was also white. His hakama was a mix of white and black stripes, he had on a white, furry, haori himo as well. His existence was existence, existing everywhere, all at once. Part of him was everything, everything and everything, spacetime, chaos, void, death, creation, everything was part of him. <br><br>
 
-Then was a person, with dark red armour, and what appeared to be 4 eyes across their face. If one was faced with it, what one would see is themself. Every single “themself” in existence, all in one place. They all meet up here, after all, everyone goes to the same place when they die. Yes, the armoured figure was Death itself. Elder gods which consume their brethren are, to him, like earthworms burrowing in the dirt.
+Next to him was a woman, with pink hair, in a suit, with a long skirt that flowed to her knees, with red accents on both her skirt and suit. She had a massive red cloak with black fur covering her body. Despite being young for a concept, she has existed since time immemorial, concepts exist, have existed, will exist, forever She was order, her existence was order, balance. <br><br>
 
-Finally, was a woman in elegant, and divine white and gold garments, she had silver hair and red eyes. Her eyes saw the end of all stories, nothing escaped, not even the pre-established “Everything” that the man in the haori embodied. Plants, animals, stars, universes, multiverses, the stories in which multiverses resided, the natural course of things, existence, the absence of it, space, time, and yes, even death - she casually destroys them just by walking along. If she chooses to “end” a being, their story is over, and the metaphorical book to their story is closed. To her, everything, from the grass upon which one stands, to a star that gives off the light of life, all of that, is just as important as an atom in the middle of nowhere. 
+Some distance from her was a monkey with a golden headband, a tiger skin jacket, a navy blue shirt, and a small cape. He was a hand, strength, chaos, freedom, he was what he was because he was.<br><br>
 
-[Áiká! Sup, you finally showed up today.]
+Then was a person, with dark red armour, and what appeared to be 4 eyes across their face. If one was faced with it, what one would see is themself. Every single “themself” in existence, all in once place. They all meet up here, after all, everyone goes to the same place when they die. Yes, the armoured figure was Death itself. Elder gods which consume their brethren are, to him, like earthworms burrowing in the dirt.<br><br>
 
-Strength, the monkey spoke first; he was Sun Wukong, the Monkey King.
+Finally, was a woman in elegant, and divine white and gold garments, she had silver hair and red eyes. Her eyes saw the end of all stories, nothing escaped, not even the pre-established “Everything” that the man in the haori embodied. Plants, animals, stars, universes, multiverses, the stories in which multiverses resided, the natural course of things, existence, the absence of it, space, time, and yes, even death - she casually destroys them just by walking along. If she chooses to “end” a being, their story is over, and the metaphorical book to their story is closed. To her, everything, from the grass upon which one stands, to a star that gives off the light of life, all of that, is just as important as an atom in the middle of nowhere. <br><br>
 
-[I couldn’t help it~~ I had other things to do~~]
+[Àikà! Sup, you finally showed up today.]<br><br>
 
-The Phantasmal Queen of Space and Time, Áiká, responded.
+Strength, the monkey spoke, he was Sun Wukong, the Monkey King.<br><br>
 
-[Ah right, the Scarlet King spreading rumours about me? I take it that’s what you’ve been digging into lately?]
+[I couldn’t help it~~ I had other things to do~~]<br><br>
 
-Everything, Nefel-- the man with the white kimono, spoke next, joking about the rumours spread by the Scarlet King; he was the man from the Scarlet King’s false story.
+The Phantasmal Queen of Space and Time, Àikà, responded.<br><br>
 
-[Eh?! He was spreading bad rumours about Nefel-san!!]
+[Ah right, the Scarlet King spreading rumours about me? I take it that’s what you’ve been digging into lately?]<br><br>
 
-Said order-- the pinked haired girl, Ṛakmú-ỻeüsan-, in response to Nefel’s statement.
+Everything, Nefel-- the man with the white kimono, spoke next, joking about the rumours spread by the Scarlet King; he was the man from the Scarlet King’s false story.<br><br>
 
-[Yeah~~ his rumours have got to the point of brainwashing, from what I can tell, he thinks that Jeser has the potential to beat you~~ So he’s grooming Jeser into being the strongest warrior he has, outshining even his leviathan army.]
+[Eh?! He was spreading bad rumours about Nefel-san!!]<br><br>
 
-[Ahh… he’s really perpetuating such rumours, I didn’t believe he was capable of such things, he’s really thinking he’s able to do anything to us. I’ll crush him, over, and over again, he’ll be nothing but pulp. A beaten mess which is incapable of doing anything. Each of his hands will be turned into lumps of flesh, and whoever chooses to support him along with him. I don’t care friend or foe, if anyone dares stand in my way, I’ll do the same. And if he dares touch anyone else, like Áŵá-chan, I’ll reduce him to nothing, oh, but he’s already nothing, an ant, a miniscule being compared to use, I’ll be able to do some much-- If he can breathe beyond that, I’d commend him, but with the state he’d likely be in because of it, I could torture him much easier. First I’d take out each of his eyes, of course, being a powerful entity, he can regenerate them. It doesn’t really matter, since I can always do a Prometheus to him, it’s not going to be that hard. But chaining him to a rock and having a vulture eat out his eyes is boring, so, I’ll have to think of better ways. Which I already have, I’ll force him to live through the experiences of all the people he’s slaughtered, from Pangloss, to my dear children, the Humans. I’ll have him see hell, it doesn’t matter if he’s the devil, or whatever, I’ll do the same regardless. Oh, but there’s his subordinates, Moloch, I mean, there’s so much to talk about-- He’s such a fiend, that bull-headed demon. Forcing my children to sacrifice their own children? How despicable. How about I turn him into a child, and then sacrifice him, that’d be fun, surely. And his betrayal? Oh, he’d betray anyone, I may have cast him down to the Darkness Above, but even then, he’s foolish. He truly deserved it. He’s a simple-minded fool who only likes war and destruction. And then the Hanged King-- I’m not sure what I could do that he wouldn’t enjoy, his whole people are sadomasochistic freaks, so little I can do to make it worse. It’d just be best to remove him from this reality before he begins enjoying the torture. Oh, but I can still raze his country of Alagadda to the ground. Other than A’habbat, I’ll have to kill all of his brides, they’re bound to get in the way, though I don’t know if I should tear their limbs off one by one, or gouge out their eyes. Ahh… but then there’s the issue of the Treaty of Thorns and Flesh… Yaldabaoth would likely step in and try to stop me, ahh… but Sofia can deal with her…]
+Said order-- the pinked haired girl, Rakmou-leusan, in response to Nefel’s statement.<br><br>
 
-The 20-winged creation, Kréỽrgwyn spoke next, what she spoke, despite being words, and that could be understood, was near-incomprehensible. Every world she spoke, her eyes turned more and more red, as the red halo-like object on her hair slowly gleamed with arcane red runes.
+[Yeah~~ his rumours have got to the point of brainwashing, from what I can tell, he thinks that Jeser has the potential to beat you~~ So he’s grooming Jeser into being the strongest warrior he has, outshining even his leviathan army.]<br><br>
 
-[Kréỽrgwyn… first off~~ don’t speak so incomprehensibly, second, we can’t kill the Scarlet King yet~~ he’s using the power of… Sanna to hide himself.]
+[Ahh… he’s really perpetuating such rumours, I didn’t believe he was capable of such things, he’s really thinking he’s able to do anything to us. I’ll crush him, over, and over again, he’ll be nothing but pulp. A beaten mess which is incapable of doing anything. Each of his hands will be turned into lumps of flesh, and whoever chooses to support him along with him. I don’t care friend or foe, if anyone dares stand in my way, I’ll do the same. And if he dares touch anyone else, like Ava-chan, I’ll reduce him to nothing, oh, but he’s already nothing, an ant, a miniscule being compared to use, I’ll be able to do some much-- If he can breathe beyond that, I’d commend him, but with the state he’d likely be in because of it, I could torture him much easier. First I’d take out each of his eyes, of course, being a powerful entity, he can regenerate them. It doesn’t really matter, since I can always do a Prometheus to him, it’s not going to be that hard. But chaining him to a rock and having a vulture eat out his eyes is boring, so, I’ll have to think of better ways. Which I already have, I’ll force him to live through the experiences of all the people he’s slaughtered, from Pangloss, to my dear children, the Humans. I’ll have him see hell, it doesn’t matter if he’s the devil, or whatever, I’ll do the same regardless. Oh, but there’s his subordinates, Moloch, I mean, there’s so much to talk about-- He’s such a fiend, that bull-headed demon. Forcing my children to sacrifice their own children? How despicable. How about I turn him into a child, and then sacrifice him, that’d be fun, surely. And his betrayal? Oh, he’d betray anyone, I may have cast him down to the Darkness Above, but even then, he’s foolish. He truly deserved it. He’s a simple-minded fool who only likes war and destruction. And then the Hanged King-- I’m not sure what I could do that he wouldn’t enjoy, his whole people are sadomasochistic freaks, so little I can do to make it worse. It’d just be best to remove him from this reality before he begins enjoying the torture. Oh, but I can still raze his country of Alagadda to the ground. Other than A’habbat, I’ll have to kill all of his brides, they’re bound to get in the way, though I don’t know if I should tear their limbs off one by one, or gouge out their eyes. Ahh… but then there’s the issue of the Treaty of Thorns and Flesh… Yaldabaoth would likely step in and try to stop me, ahh… but Sofia can deal with her…]<br><br>
 
-[Áŵá-chan, I fully understand everything you’re getting at, but I don’t care. That fiend must be killed, I don’t care about the veil of Sanna. It’s useless to me, it’s meant to keep some other people out, but I'll break through, eventually. My hatred for him knows no bounds. I’ll shatter that veil of his with my own hands, it’s not something I can’t do. That antithetical storytelling device can do nothing against me. If anything, It’ll strengthen my resolve to torture him, after all, if he can’t die due to it, I’ll be able to torture him as much as I want. Now that you’ve reminded me, oh-- there’s so much I could do, I could torture him for eternity, and he’ll have to bear with it, his worthless veil will be used against him, I’ll have so much fun-- It’s almost insane how much fun I could have--]
+The 20-winged creation, Kréûrgwīn spoke next, what she spoke, despite being words, and that could be understood, was near-incomprehensible. Every world she spoke, her eyes turned more and more red, as the red halo-like object on her hair slowly gleamed with arcane red runes.<br><br>
 
-[Fine then~~ I’ll have to call off that date you were looking really happy for~~]
+[Kréûrgwīn… first off~~ don’t speak so incomprehensibly, second, we can’t kill the Scarlet King yet~~ he’s using the power of… Sanna to hide himself.]<br><br>
 
-What's this? A normal event, you could call it sugary, happening… out of bounds of calculation. 
+[Ava-chan, I fully understand everything you’re getting at, but I don’t care. That fiend must be killed, I don’t care about the veil of Sanna. It’s useless to me, it’s meant to keep some other people out, but I'll break through, eventually. My hatred for him knows no bounds. I’ll shatter that veil of his with my own hands, it’s not something I can’t do. That antithetical storytelling device can do nothing against me. If anything, It’ll strengthen my resolve to torture him, after all, if he can’t die due to it, I’ll be able to torture him as much as I want. Now that you’ve reminded me, oh-- there’s so much I could do, I could torture him for eternity, and he’ll have to bear with it, his worthless veil will be used against him, I’ll have so much fun-- It’s almost insane how much fun I could have--]<br><br>
 
-[Wai-wai-wait, Áŵá-chan, you can’t do that!! This is heresy!]
+[Fine then~~ I’ll have to call off that date you were looking really happy for~~]<br><br>
 
-[… Do you even know what heresy means, Kréỽrgwyn~~?]
+What's this? A normal event happening… out of bounds of story, fixing error.<br><br>
 
-[No, I do not, and I don’t personally care, what I call heresy, is heresy.]
+[Wai-wai-wait, Ava-chan, you can’t do that!! This is heresy!]<br><br>
 
-[… Are you two seriously arguing about heresy and stuff during an official Koru-teusa meeting———– In other words… you’re talking about personal matters, while we have other matters to deal with, it isn’t acceptable right now.]
+[… Do you even know what heresy means, Kréûrgwīn~~?]<br><br>
 
-In a simple intonation and inflectionless voice, the unavoidable End, Šiřo, the woman with divine white and gold garments, ended the personal conversation between Kréỽrgwyn and Áiká.
+[No, I do not, and I don’t personally care, what I call heresy, is heresy.]<br><br>
 
-Indeed, to continue, we have the rumours about Nefel spread through the word of the Insect, Harak, son of the Third Brood, and grooming Jeser to be his perfect warrior… How troublesome…
+[… Are you two seriously arguing about heresy and stuff during an official Koru-teusa meeting———– In other words… you’re talking about personal matters, while we have other matters to deal with, it isn’t acceptable right now.]<br><br>
 
-The armoured Death, All-Death; Ksitigarbha, continued with the prior conversation.
+In a simple intonation and inflectionless voice, the unavoidable End, Šiřo, the woman with divine white and gold garments, ended the personal conversation between Kréûrgwīn and Àikà.<br><br>
 
-[Yeah~~ really is very troublesome to maintain order and balance without killing the Scarlet King right now~~ which is currently impossible.]
+**Indeed, to continue, we have the rumours about Nefel spread through the word of the Insect, Harak, son of the Third Brood, and grooming Jeser to be his perfect warrior… How troublesome…**<br><br>
 
-[Áŵá-chan, Wukong, how about you two journey and meet up with Lùth and Ýli.]
+The armoured Death, All-Death; Ksitigarbha, continued with the prior conversation.<br><br>
 
-[[Why is it the both of us!?]]
+[Yeah~~ really is very troublesome to maintain order and balance without killing the Scarlet King right now~~ which is currently impossible.]<br><br>
 
-[Well—— neither Áŵá-chan nor Wukong are technically members of the Koru-teusa, it’s easier this way.]
+[Ava-chan, Wukong, how about you two journey and meet up with Lùth and Ýli.]<br><br>
 
-[Fine~~ I’ll accept then.]
+[[Why is it the both of us!?]]<br><br>
 
-Well, we must all be off soon, good luck to both of you.
+[Well—— neither Ava-chan nor Wukong are technically members of the Koru-teusa, it’s easier this way.]<br><br>
 
-With that, All-Death left through a small portal, which appeared out of nowhere.
+[Fine~~ I’ll accept then.]<br><br>
 
-[This was a short meeting, but good luck, Áiká-chan, Wukong!]
+**Well, we must all be off soon, good luck to both of you.**<br><br>
 
-Kréỽrgwyn would be next to leave, vanishing in a flash of light.
+With that, All-Death left through a small portal, which appeared out of nowhere.<br><br>
 
-[Best of luck to you both! See you, さらばだ]
+[This was a short meeting, but good luck, Àikà-chan, Wukong!]<br><br>
 
-(A/N: さらばだ (Hepburn: Sarabada) means “Farewell.”)
+Kréûrgwīn would be next to leave, vanishing in a flash of light.<br><br>
 
-[Ah, Nefel-san, wait, Ái-tan, see you and Wukong-san, later!!]
+[Best of luck to you both! See you, さらばだ]<br><br>
 
-Both Nefel and Ṛakmú-ỻeüsan- got together, with Nefel covering the both of them with his haori, as they vanished afterwards.
+(A/N: さらばだ (Hepburn: Sarabada) means “Farewell.”)<br><br>
 
-[I should warn you, Küřo is not the way she seems right now———– In other words… Küřo may be planning something, not even I can comprehend what it is.]
+[Ah, Nefel-san, wait, Ai-tan, see you and Wukong-san, later!!]<br><br>
 
-With those cautionary words, Šiřo too left.
+Both Nefel and Rakmou-leusan got together, with Nefel covering the both of them with his haori, as they vanished afterwards.<br><br>
 
-[That’s everyone gone I guess~~]
+[I should warn you, Küřo is not the way she seems right now———– In other words… Küřo may be planning something, not even I can comprehend what it is.]<br><br>
 
-[Yeah, also, do you know why I had to sub in for Küřo?]
+With those cautionary words, Šiřo too left.<br><br>
 
-[She said she had some important business to finish~~ So, she couldn’t attend the meeting today~~ I’ll bet she’s going to be here next time or something. There’s a lot of chaos~~ and she’s been handling all of that pretty frequently~~]
+[That’s everyone gone I guess~~]<br><br>
 
-[And, what about Voru?]
+[Yeah, also, do you know why I had to sub in for Küřo?]<br><br>
 
-[Ah~~ they’re dealing with all the Voruteuts~~ rumour has it that the Scarlet King took many young men and women. I know he took at least one~~ that being~~ the one who was Jeser’s host body. She’s being taken care of by Krulåva right now. We’ll have to deal with that as well~~ I bet~~]
+[She said she had some important business to finish~~ So, she couldn’t attend the meeting today~~ I’ll bet she’s going to be here next time or something. There’s a lot of chaos~~ and she’s been handling all of that pretty frequently~~]<br><br>
+
+[And, what about Voru?]<br><br>
+
+[Ah~~ they’re dealing with all the Voruteuts~~ rumour has it that the Scarlet King took many young men and women. I know he took at least one~~ that being~~ the one who was Jeser’s host body. She’s being taken care of by Krulåva right now. We’ll have to deal with that as well~~ I bet~~]<br><br>
 
 [That’s done, roll the afterword.]
 
