@@ -135,7 +135,12 @@ In an instant, the Ŵīltăyă is skewered by many spikes, and large black nails
 
 <div class="author-notes">
     <h2>Author Notes</h2>
-    <p>Welcome to the first chapter of this series! I hope the insane power of the characters didn’t scare you. This series only exists because… this series was once revealed to me in a dream. It’s bizarre, it’s meant to be, but also cool. There are many SCP references, and, don’t worry, they’ll be explained in the future. Also, if you’re confused about what happened at the start, good. Also, you can skip the afterword, not much happens here, it’s just a relaxing break; filled with gag characters. And, who knows, you might see the personalities of characters already introduced expanded upon in these afterword chapters. Also, don’t mind all the weird words, they’re part of the canonical conlang, but you can pronounce them however the hell you want. The conlang is just for me.</p>
+    <p>Hello. What the hell is this? Why is there a 6 (ỽ) in the middle my manuscript, and who made this o, Christian (ð), and why is there a weird H (ỻ), and who overfed this line (þ), there's even weird hats above the letters! How strange. Many stories are full of weird oddities, and my story isn't any exception. The voiceless alveolar lateral fricative, the /ɬ/ sound, also known as the sound that 99% of the world population messes up so badly it makes you wonder if God really did abandon Earth, usually, in languages like Welsh, you can find it as a double l, but in my story, because it's my story, you can find it written like this: ỻ. This one looks like 2 penguins holding hands…
+
+<img src="twopenguinsholdinghands.png" alt="ỻ">
+
+<small>Image courtesy of Cambrian Chronicles of YouTube, licensed under CC-BY-SA 4.0.</small>
+The letter Eth, or ð, is commonly found in icelandic languages, but I don't see any ice here… or land! But ð represents the /ð/ sound, and is a Christian too. Then there's the fat line, þ, which represents the /θ/… now finally, we get the fun one, the one I like best, the 6. Well, it's not actually a six, but uhh… anyways, I like it because it's my favourite letter of all time, the Middle Welsh V, or ỽ. So then, why are all these letters, alongside the ones with dapper hats, here? There's a simple explanation for that… I like making conlangs, and I like these letters.</p>
 </div>
 
 * * * * *
