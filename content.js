@@ -139,7 +139,8 @@ In an instant, the Ŵīltăyă is skewered by many spikes, and large black nails
 
 <img src="twopenguinsholdinghands.png" alt="ỻ"><br>
 
-<small>Image courtesy of Cambrian Chronicles of YouTube, licensed under CC-BY-SA 4.0.</small>
+<small>Image courtesy of Cambrian Chronicles of YouTube, licensed under CC-BY-SA 4.0.</small><br>
+
 The letter Eth, or ð, is commonly found in icelandic languages, but I don't see any ice here… or land! But ð represents the /ð/ sound, and is a Christian too. Then there's the fat line, þ, which represents the /θ/… now finally, we get the fun one, the one I like best, the 6. Well, it's not actually a six, but uhh… anyways, I like it because it's my favourite letter of all time, the Middle Welsh V, or ỽ. So then, why are all these letters, alongside the ones with dapper hats, here? There's a simple explanation for that… I like making conlangs, and I like these letters.</p>
 </div>
 
