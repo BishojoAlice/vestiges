@@ -257,4 +257,5 @@ When the woman finished the story, they exited the room. Outside, a short girl w
 
 [I should warn you, Ɑiv-Zo̕n is not going to easily let you betray it. Ɑiv-Zo̕n might even find out, I'd be careful. I've set up a communication channel to any taim unit in the area, so you should be able to find support anywhere, or give information anywhere. You might even find some spies in the midst. Ellie, Clef, and Clepta are 3 you should be able to find there.]<br><br>
 
-[Thank you for the help.]<br><br>}];
+[Thank you for the help.]<br><br>}]`
+}];
