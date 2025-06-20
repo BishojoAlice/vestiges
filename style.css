@@ -1,52 +1,448 @@
+/* Updated root variables to use theme fallbacks */
 :root {
-    --bg-color: #32174d;
+    /* Fallback values if theme not loaded */
+    --primary-color: #C4B5FD;
+    --background-color: #fdfcff;
+    --container-bg-color: white;
     --text-color: #2c3e50;
-    --container-bg: #8a4fd3;
-    --container-shadow: rgba(0,0,0,0.1);
-    --summary-bg: #32174d;
-    --chapter-border: #32174d;
+    --secondary-text-color: #343a40;
+    --border-color: #dee2e6;
+    --summary-bg-color: #f8f9fa;
+    --hyperlink-color: #a855f7;
+    --hyperlink-hover-color: #9333ea;
+    --shadow-color: rgba(196, 181, 253, 0.25);
+    --button-text-color: white;
+    --select-arrow-svg: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>');
+    --tertiary-accent-color: #f59e0b; /* Default gold/amber color */
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --bg-color: #32174d;
-        --text-color: #e1e1e1;
-        --container-bg: #1a0b29;
-        --container-shadow: rgba(0,0,0,0.3);
-        --summary-bg: #251339;
-        --chapter-border: #32174d;
-    }
+/* Theme-specific tertiary accent colors */
+[data-theme="light"] {
+    --tertiary-accent-color: var(--primary-color);
+}
+
+[data-theme="dark"] {
+    --tertiary-accent-color: #fbbf24; /* Gold accent for dark themes */
+    --button-text-color: #111827;
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Georgia', serif;
+    font-family: 'Noto Serif', serif;
 }
 
 body {
-    background: var(--bg-color);
+    background: var(--background-color);
+    color: var(--text-color);
     line-height: 1.6;
     padding: 2rem;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.theme-switcher {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    cursor: pointer;
+    background-color: var(--container-bg-color);
+    padding: 0.5rem;
+    border-radius: 9999px;
+    border: 1px solid var(--border-color);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+}
+
+.theme-switcher svg {
+    color: var(--primary-color);
+}
+
+/* These rules correctly toggle the visibility of sun/moon icons based on data-theme attribute */
+[data-theme="light"] .theme-switcher .feather-moon {
+    display: block;
+}
+[data-theme="light"] .theme-switcher .feather-sun {
+    display: none;
+}
+[data-theme="dark"] .theme-switcher .feather-moon {
+    display: none;
+}
+[data-theme="dark"] .theme-switcher .feather-sun {
+    display: block;
+}
+
+.settings-button {
+    position: fixed;
+    top: 1rem;
+    /* Default left for settings-button (first button) */
+    left: 1rem; 
+    cursor: pointer;
+    background-color: var(--container-bg-color);
+    padding: 0.5rem;
+    border-radius: 9999px;
+    border: 1px solid var(--border-color);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+#edit-button {
+    left: 4.5rem; /* Position next to settings */
+}
+
+#global-highlight-button {
+    left: 7.5rem; /* Position next to edit button */
+}
+
+body.edit-mode #settings-button, body.edit-mode #theme-switcher {
+    opacity: 0.5;
+    pointer-events: none; /* Disable clicking settings/theme while editing */
+}
+
+.settings-button svg {
+    color: var(--primary-color);
+    transition: color 0.3s ease;
+}
+
+.settings-modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1001; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+    backdrop-filter: blur(5px); /* Blurry background */
+    align-items: center;
+    justify-content: center;
+}
+
+.settings-modal .modal-content {
+    background-color: var(--container-bg-color);
+    margin: auto;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px var(--shadow-color);
+    position: relative;
+    width: 90%;
+    max-width: 500px;
+    animation: fadeIn 0.3s ease-out;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.settings-modal h2 {
     color: var(--text-color);
+    margin-bottom: 1.5rem;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.settings-modal .close-button {
+    color: var(--secondary-text-color);
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    font-size: 2rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.settings-modal .close-button:hover,
+.settings-modal .close-button:focus {
+    color: var(--primary-color);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.setting-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.setting-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.setting-item label {
+    color: var(--text-color);
+    font-size: 1.1rem;
+    flex-grow: 1;
+}
+
+.setting-item select {
+    padding: 0.6rem 1rem;
+    border-radius: 5px;
+    border: 1px solid var(--border-color);
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    -webkit-appearance: none; /* Remove default arrow on select */
+    -moz-appearance: none;
+    appearance: none;
+    /* Dynamically generated SVG from theme.js with the correct color */
+    background-image: var(--select-arrow-svg);
+    background-repeat: no-repeat;
+    background-position: right 0.7rem top 50%;
+    background-size: 1.2em auto;
+    width: 200px; /* Increased width to prevent text overflow */
+}
+
+.setting-item select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px var(--shadow-color);
+}
+
+/* Edit Mode Styles */
+#edit-toolbar {
+    display: none; /* Hidden by default */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: color-mix(in srgb, var(--container-bg-color), black 10%);
+    padding: 1rem;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+    z-index: 1002;
+    justify-content: center;
+    gap: 1rem;
+    backdrop-filter: blur(5px);
+}
+
+.edit-toolbar-button {
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+#save-changes-button {
+    background-color: var(--primary-color);
+    color: var(--button-text-color);
+}
+#save-changes-button:hover {
+    opacity: 0.8;
+}
+
+#cancel-changes-button {
+    background-color: var(--secondary-text-color);
+    color: var(--background-color);
+}
+#cancel-changes-button:hover {
+    background-color: var(--text-color);
+}
+
+/* Rich Text Editor Toolbar */
+.rich-text-toolbar {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 5rem; /* Adjusted position to avoid overlap with settings/edit buttons */
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: var(--container-bg-color);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 0.75rem;
+    z-index: 1001;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    box-shadow: 0 4px 12px var(--shadow-color);
+    backdrop-filter: blur(10px);
+    min-width: 600px;
+}
+
+/* Make the rich text toolbar visible globally when in edit mode */
+body.edit-mode .rich-text-toolbar {
+    display: flex;
+}
+
+.toolbar-button {
+    background: transparent;
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    border-radius: 3px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.toolbar-button:hover {
+    background-color: var(--primary-color);
+    color: var(--button-text-color);
+    border-color: var(--primary-color);
+}
+
+.toolbar-button.active {
+    background-color: var(--primary-color);
+    color: var(--button-text-color);
+    border-color: var(--primary-color);
+}
+
+.toolbar-separator {
+    width: 1px;
+    height: 24px;
+    background-color: var(--border-color);
+    margin: 0 0.25rem;
+}
+
+.toolbar-dropdown {
+    background: var(--container-bg-color);
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    border-radius: 3px;
+    height: 32px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 14px;
+    padding: 0 0.5rem;
+    min-width: 80px;
+}
+
+.toolbar-dropdown:hover {
+    border-color: var(--primary-color);
+}
+
+[contenteditable="true"] {
+    outline: 2px dashed var(--primary-color);
+    background-color: color-mix(in srgb, var(--container-bg-color) 95%, var(--primary-color) 5%);
+    padding: 0.5rem;
+    border-radius: 0 0 3px 3px;
+    border: 1px solid var(--border-color);
+    border-top: none;
+    position: relative;
+}
+
+[contenteditable="true"]:focus {
+    outline: 2px solid var(--primary-color);
+}
+
+.chapter-list-item {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.chapter-list-item .chapter-link {
+    flex-grow: 1;
+}
+
+.edit-chapter-button {
+    background: transparent;
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    margin-left: 0.5rem;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    flex-shrink: 0; /* Prevent button from shrinking */
+}
+
+.edit-chapter-button:hover {
+    background-color: var(--primary-color);
+    color: var(--button-text-color);
+}
+
+.edit-chapter-button svg {
+    width: 16px;
+    height: 16px;
+}
+
+.delete-chapter-button {
+    background: #ef4444;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 0.5rem;
+    transition: background-color 0.2s;
+    font-weight: bold;
+    display: flex; /* Changed from inline-flex for consistency */
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    flex-shrink: 0; /* Prevent button from shrinking */
+}
+
+.delete-chapter-button:hover {
+    background: #dc2626;
+}
+
+#new-chapter-button {
+    width: 100%;
+    padding: 1rem;
+    margin-top: 0.5rem;
+    background-color: transparent;
+    border: 2px dashed var(--border-color);
+    color: var(--secondary-text-color);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 1.1rem;
+}
+
+#new-chapter-button:hover {
+    border-color: var(--primary-color);
+    background-color: color-mix(in srgb, var(--container-bg-color) 95%, var(--primary-color) 5%);
+    color: var(--primary-color);
+}
+
+/* Optional: Hide the old dark mode toggle in the modal if it's no longer used */
+.settings-modal .switch {
+    display: none;
 }
 
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background: var(--container-bg);
+    background: var(--container-bg-color);
     padding: 2rem;
     border-radius: 10px;
-    box-shadow: 0 2px 10px var(--container-shadow);
+    box-shadow: 0 2px 10px var(--shadow-color);
+    transition: background-color 0.3s ease;
 }
 
 .summary {
-    background: var(--summary-bg);
+    background: var(--summary-bg-color);
     padding: 1.5rem;
-    border-left: 4px solid #e9688e;
+    border-left: 4px solid var(--primary-color);
     margin-bottom: 2rem;
     border-radius: 0 5px 5px 0;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
 .summary h2 {
@@ -62,51 +458,71 @@ body {
     display: block;
     padding: 1rem;
     margin: 0.5rem 0;
-    background: var(--container-bg);
-    border: 1px solid var(--chapter-border);
+    background: var(--container-bg-color);
+    border: 1px solid var(--border-color);
     border-radius: 5px;
-    color: #ffffff;
+    color: var(--secondary-text-color);
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
 .chapter-link:hover {
-    background: #e9688e;
-    color: #ffffff;
+    background: var(--primary-color);
+    color: white;
     transform: translateX(10px);
 }
 
-.chapter-link:hover .chapter-number {
-    color: #ffffff;
+.chapter-title {
+    display: inline-block; /* Needed for contenteditable to behave well */
 }
 
 .chapter-number {
     font-weight: bold;
     margin-right: 1rem;
-    color: #e9688e;
+    color: var(--primary-color);
+    transition: color 0.3s ease;
 }
 
-h1, h2 {
+.chapter-link:hover .chapter-number {
+    color: white;
+}
+
+h1 {
     color: var(--text-color);
-    margin-bottom: 2rem;
+    margin-bottom: 0.5rem;
     text-align: center;
     font-size: 2.5rem;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 1.7rem;
+    color: #C4B5FD; /* Always lavender for the subtitle */
+    margin-bottom: 2rem;
+    font-weight: normal;
+    font-style: italic;
 }
 
 .decoration {
     text-align: center;
     margin: 2rem 0;
-    color: #e9688e;
+    color: var(--primary-color);
+    transition: color 0.3s ease;
 }
 
 .chapter-page {
     max-width: 800px;
     margin: 0 auto;
     padding: 2rem;
-    background: var(--container-bg);
+    background: var(--container-bg-color);
     border-radius: 10px;
-    box-shadow: 0 2px 10px var(--container-shadow);
+    box-shadow: 0 2px 10px var(--shadow-color);
     color: var(--text-color);
+    position: relative; /* Added for absolute positioning of highlight button */
+}
+
+.chapter-page h1.chapter-title-main {
+    margin-bottom: 2rem; /* Give more space below editable title */
 }
 
 .chapter-navigation {
@@ -118,30 +534,89 @@ h1, h2 {
 
 .nav-button {
     padding: 0.5rem 1rem;
-    background: var(--container-bg);
-    color: #ffffff;
-    border: 2px solid #e9688e;
+    background: var(--primary-color);
+    color: white;
+    border: none;
     border-radius: 5px;
     cursor: pointer;
     text-decoration: none;
-    transition: all 0.3s ease;
+    transition: background 0.3s ease;
+}
+
+[data-theme="dark"] .nav-button {
+    color: #111827;
 }
 
 .nav-button:hover {
-    background: #e9688e;
-    color: #ffffff;
+    opacity: 0.8;
+    color: var(--secondary-text-color);
 }
 
 .chapter-content {
     margin: 2rem 0;
     font-size: 1.1rem;
     line-height: 1.8;
-    color: var(--text-color);
+    color: var(--secondary-text-color);
 }
 
-.chapter-content [text-in-brackets] {
-    color: #e9688e;
-    font-style: italic;
+/* Loading Overlay for translation */
+#loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: none; /* Hidden by default */
+    justify-content: center;
+    align-items: center;
+    z-index: 1002; /* Above modal */
+    flex-direction: column;
+    color: white;
+    backdrop-filter: blur(3px);
+}
+
+.spinner {
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top: 4px solid var(--primary-color);
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin-bottom: 1rem;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* AI Warning in settings */
+.ai-warning {
+    margin-top: 1rem;
+    padding: 0.75rem;
+    background-color: var(--summary-bg-color);
+    border-radius: 5px;
+    border-left: 3px solid var(--primary-color);
+}
+
+.ai-warning p {
+    color: var(--secondary-text-color);
+    font-size: 0.9rem;
+    line-height: 1.4;
+    margin: 0;
+}
+
+/* Styling for Furigana (Japanese Ruby annotations) */
+.chapter-content ruby {
+    /* Optional: Fine-tune alignment if needed */
+    ruby-align: auto;
+}
+
+.chapter-content rt {
+    font-size: 0.7em; /* Make furigana smaller than the base text */
+    line-height: 1;   /* Prevent extra space between lines */
+    user-select: none; /* Prevent easy selection of furigana only */
 }
 
 .divider-transition {
@@ -156,7 +631,7 @@ h1, h2 {
 
 .divider-transition span {
     font-size: 1.5rem;
-    color: #e9688e;
+    color: var(--primary-color);
     animation: pulse 2s infinite;
 }
 
@@ -177,15 +652,16 @@ h1, h2 {
 .section-divider {
     text-align: center;
     margin: 2rem 0;
-    color: #e9688e;
+    color: var(--primary-color);
     font-size: 1.2rem;
 }
 
 .afterword-section, .author-notes, .copyright {
     margin: 2rem 0;
     padding: 1.5rem;
-    background: var(--summary-bg);
+    background: var(--summary-bg-color);
     border-radius: 5px;
+    transition: background-color 0.3s ease;
 }
 
 .afterword-section h2, .author-notes h2, .copyright h2 {
@@ -201,103 +677,138 @@ h1, h2 {
 .copyright li {
     margin: 0.5rem 0;
 }
-body {
-    background: var(--bg-color);
-    line-height: 1.6;
-    padding: 2rem;
-    font-family: 'Georgia', serif;
-    color: var(--text-color);
-}
 
-.chapter-page {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 2rem;
-    background: var(--container-bg);
-    border-radius: 10px;
-    box-shadow: 0 2px 10px var(--container-shadow);
-    color: var(--text-color);
-}
-
-h1 {
-    color: var(--text-color);
-    margin-bottom: 2rem;
-    text-align: center;
-    font-size: 2.5rem;
-}
-
-.chapter-navigation {
-    display: flex;
-    gap: 1rem;
-    justify-content: flex-end;
-    margin: 2rem 0;
-}
-
-.nav-button {
-    padding: 0.5rem 1rem;
-    background: var(--container-bg);
-    color: #ffffff;
-    border: 2px solid #e9688e;
-    border-radius: 5px;
-    cursor: pointer;
+.copyright a {
+    color: var(--hyperlink-color);
     text-decoration: none;
-    transition: all 0.3s ease;
+    transition: color 0.3s ease;
 }
 
-.nav-button:hover {
-    background: #e9688e;
-    color: #ffffff;
+.copyright a:hover {
+    color: var(--hyperlink-hover-color);
+    text-decoration: underline;
 }
 
-.chapter-content {
-    margin: 2rem 0;
-    font-size: 1.1rem;
-    line-height: 1.8;
-    color: var(--text-color);
-}
-
-.divider-transition {
-    text-align: center;
-    margin: 2rem 0;
-    padding: 1rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 1rem;
-}
-
-.divider-transition span {
-    font-size: 1.5rem;
-    color: #e9688e;
-    animation: pulse 2s infinite;
-}
-
-.divider-transition span:nth-child(2) {
-    animation-delay: 0.3s;
-}
-
-.divider-transition span:nth-child(3) {
-    animation-delay: 0.6s;
-}
-
-@keyframes pulse {
-    0% { transform: scale(1); opacity: 1; }
-    50% { transform: scale(1.2); opacity: 0.7; }
-    100% { transform: scale(1); opacity: 1; }
-}
-
-:root {
-    --bg-color: #32174d;
-    --text-color: #2c3e50;
-    --container-bg: #8a4fd3;
-    --container-shadow: rgba(0,0,0,0.1);
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --bg-color: #32174d;
-        --text-color: #e1e1e1;
-        --container-bg: #1a0b29;
-        --container-shadow: rgba(0,0,0,0.3);
+/* Mobile responsiveness adjustments */
+@media (max-width: 768px) {
+    body {
+        padding: 1rem; /* Reduce overall padding on smaller screens */
     }
+
+    .container,
+    .chapter-page {
+        max-width: 95%; /* Make container and chapter page wider */
+        margin: 0 auto; /* Ensure it stays centered */
+        padding: 1rem; /* Reduce padding inside the container/chapter page */
+    }
+
+    h1 {
+        font-size: 2rem; /* Slightly decrease main title font size */
+    }
+
+    .subtitle {
+        font-size: 1.4rem; /* Slightly decrease subtitle font size */
+    }
+
+    .settings-modal .modal-content {
+        padding: 1.5rem; /* Adjust modal padding for smaller screens */
+        width: 95%; /* Make modal wider on small screens */
+    }
+
+    .settings-modal h2 {
+        font-size: 1.5rem; /* Adjust settings title font size */
+    }
+
+    .setting-item label {
+        font-size: 1rem; /* Adjust settings label font size */
+    }
+
+    .setting-item select {
+        width: 150px; /* Allow select box to be slightly smaller */
+        font-size: 0.9rem;
+        padding: 0.5rem 0.8rem;
+    }
+
+    .chapter-content {
+        font-size: 1rem; /* Decrease chapter content font size */
+        line-height: 1.7; /* Slightly adjust line height if needed */
+    }
+
+    .summary {
+        padding: 1rem; /* Adjust summary padding */
+    }
+
+    .chapters {
+        padding: 0 0.5rem; /* Add slight padding to chapter list */
+    }
+
+    .chapter-link {
+        padding: 0.8rem; /* Adjust chapter link padding */
+        margin: 0.4rem 0;
+    }
+
+    .chapter-navigation {
+        flex-direction: column; /* Stack navigation buttons vertically */
+        align-items: center; /* Center buttons */
+        gap: 0.8rem; /* Adjust gap between stacked buttons */
+    }
+
+    .nav-button {
+        width: 100%; /* Make navigation buttons full width */
+        text-align: center;
+        padding: 0.75rem 1rem;
+    }
+}
+
+.chapter-highlighted {
+    background-color: var(--tertiary-accent-color) !important;
+    color: var(--button-text-color) !important;
+    border-color: var(--tertiary-accent-color) !important;
+}
+
+.chapter-highlighted .chapter-number,
+.chapter-highlighted .chapter-title {
+    color: var(--button-text-color) !important;
+}
+
+/* Styles for individual chapter highlight button */
+.highlight-chapter-button {
+    background: transparent;
+    border: 1px solid var(--border-color);
+    color: var(--secondary-text-color); /* Default color */
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    margin-left: 0.5rem;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    flex-shrink: 0;
+}
+
+.highlight-chapter-button:hover {
+    background-color: var(--tertiary-accent-color);
+    color: var(--button-text-color);
+    border-color: var(--tertiary-accent-color);
+}
+
+.highlight-chapter-button.highlight-active {
+    background-color: var(--tertiary-accent-color);
+    color: var(--button-text-color);
+    border-color: var(--tertiary-accent-color);
+}
+
+.highlight-chapter-button svg {
+    width: 16px;
+    height: 16px;
+    fill: currentColor; /* Ensure SVG fills with current color */
+}
+
+/* Ensure highlight button is always visible, not affected by edit mode opacity */
+.chapter-list-item .highlight-chapter-button {
+    opacity: 1 !important;
+    pointer-events: auto !important;
 }
